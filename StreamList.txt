@@ -1,0 +1,153 @@
+[Adblock Plus]
+! Version: 202406280226
+! Title: ▶️ RodyStreamList
+! Description: Filters for clean many free English, Arabic streaming websites.
+! Maintainer: Murtaza Salih
+! Expires: 2 hours
+! Homepage: https://github.com/itsrody/RodyFilterLists
+
+! Jun 28, 2024 https://www.faselhds.world
+www.faselhds.world##.Teamwork.AsideContext
+www.faselhds.world##.dwnApp
+www.faselhds.world##.ml-auto.promoLink
+www.faselhds.world##.promoTab
+www.faselhds.world##.starRating
+www.faselhds.world##.thumbs-rating-container
+www.faselhds.world##.alert-danger.alert
+www.faselhds.world##.postElse
+www.faselhds.world##.downloadLinks
+www.faselhds.world###footer
+www.faselhds.world##span.cat
+www.faselhds.world##.pViews
+www.faselhds.world##.pImdb
+www.faselhds.world##.breakNews
+www.faselhds.world###pr
+www.faselhds.world##.bCat
+www.faselhds.world##.bviews
+www.faselhds.world##.bimdb
+www.faselhds.world##.accImg
+www.faselhds.world##.col-sm-12.col-md-12.col-lg-4.col-xl-4
+www.faselhds.world##a.accItem:nth-of-type(4)
+www.faselhds.world##div#blockList.mt-3.blockAlt.watchlist-box:nth-of-type(2)
+www.faselhds.world##div#blockList.mt-3.blockAlt.watchlist-box:nth-of-type(4)
+www.faselhds.world##.quality
+www.faselhds.world###a9WMTfh5F4Crw
+www.faselhds.world###aMC89eI322dI6
+www.faselhds.world###a3YP7u9FmxEXY
+www.faselhds.world###an1qXxD84JnjP
+www.faselhds.world##.mb-1.slideMeta
+www.faselhds.world##.mb-2.slideCats
+www.faselhds.world##.social-block 
+www.faselhds.world##.posTop
+www.faselhds.world##.singleStar
+www.faselhds.world##.promoLink
+www.faselhds.world##.social
+www.faselhds.world##div.ralatedMovies
+
+! Jun 28, 2024 https://hdtoday.tv
+hdtoday.tv##.mb-5.mw-body
+hdtoday.tv###xfooter-about
+hdtoday.tv##.footer-links
+hdtoday.tv##div.text-center.mw-buttons:nth-of-type(7)
+hdtoday.tv##li.nav-item:nth-of-type(4)
+hdtoday.tv##.mw-sitename
+hdtoday.tv##.section-id-01.block_area_home.block_area
+hdtoday.tv##section.section-id-02.block_area_home.block_area:nth-of-type(4)
+hdtoday.tv###footer
+hdtoday.tv##li.nav-item:nth-of-type(7)
+hdtoday.tv##li.nav-item:nth-of-type(6)
+hdtoday.tv##.btn-trailer.btn-sm.btn
+hdtoday.tv##.mb-3.detail-tags
+hdtoday.tv##.text-center.server-notice
+hdtoday.tv##.mb-3.alert
+hdtoday.tv##.dp-i-c-poster
+hdtoday.tv###film_comments
+hdtoday.tv##.file_realted-list.film_related
+hdtoday.tv##.breadcrumb
+hdtoday.tv##.mr-2.btn-secondary.btn-radius.btn-sm.btn.goto-comments
+hdtoday.tv###turn-off-light
+
+! Jun 19, 2024 https://www.tuktukcima.com
+www.tuktukcima.com##.Left--Anchors
+www.tuktukcima.com##.News--Content
+www.tuktukcima.com##.Header--Social
+www.tuktukcima.com##.Slides--Item
+www.tuktukcima.com##.liList
+www.tuktukcima.com##.Channels--List
+www.tuktukcima.com##.Footer--Filter
+www.tuktukcima.com##footer
+||ww.tuktukcima.com/wp-content/uploads/2022/06/lela-1.png$image
+www.tuktukcima.com###mpbreadcrumbs
+www.tuktukcima.com##.WatcHTrailer.trl
+www.tuktukcima.com##.tabs > ul > li:nth-of-type(3)
+www.tuktukcima.com##.imdbS
+
+! Jun 20, 2024 https://wecima.show
+wecima.show##.Menubar--UX
+wecima.show##.Slider--Grid
+wecima.show##.WecimaonSocialnetwork
+wecima.show##singlecontainerleft
+wecima.show##singlerelated
+wecima.show##.BreadcrumbsFilters
+wecima.show##.LeftSideFlex
+
+! Jun 20, 2024 https://best-drama.com
+best-drama.com##.mt-0.block-bgcolor-att.padding_50
+best-drama.com##.footer-top
+best-drama.com##.footer
+best-drama.com##.starstruck-wrap
+
+! Jun 28, 2024 https://asia.5ivttv.vip
+asia.5ivttv.vip##.vote-cn
+asia.5ivttv.vip##.rcl0c.rfg1.rw.options
+asia.5ivttv.vip##.tac.ft
+asia.5ivttv.vip##.widget.comments-area
+asia.5ivttv.vip##.episodes.section
+asia.5ivttv.vip##.blk.aa-mdl.fa-user.lnk.btn-login.btn
+asia.5ivttv.vip##.or-1.dv.dfxc.menu > .menu-item-129997.menu-item-object-page.menu-item-type-post_type.menu-item
+asia.5ivttv.vip###menu-item-106263 > [href="https://asia.5ivttv.vip/favorites/"]
+asia.5ivttv.vip###menu-item-28656 > [href="/release/2024/"]
+asia.5ivttv.vip###menu-item-44587 > [href="/release/2023/"]
+asia.5ivttv.vip###post-132390 > .movies.fcl.dfx.post > .lnk-blk
+
+! Jun 20, 2024 https://qw.spotnews.buzz
+qw.spotnews.buzz##.header-footer-group.has-text-align-center.entry-header
+qw.spotnews.buzz##.entry-content
+qw.spotnews.buzz##.category-2.hentry.format-standard.status-publish.type-post.post.post-74
+
+! Jun 20, 2024 http://aflamlab.com
+aflamlab.com##aside
+aflamlab.com##.Footer
+aflamlab.com##section:nth-of-type(3)
+aflamlab.com##.ClFx
+
+! Jun 25, 2024 https://shoffree.net
+shoffree.net##.p-0.px-3.t-blackout-bg-secondary.d-none.d-md-block.col-md-3
+shoffree.net##.imdbRate
+shoffree.net##.imdbRating
+shoffree.net##.font-bold.font-lg.singleRating
+shoffree.net##.m-0.p-0.px-4.pt-4.pb-3.listOfPosts-wrapper.t-blackout-bt-primary.row
+shoffree.net##div.px-0.pt-0:nth-of-type(7) > .px-2 > .w-100.h-auto.m-0.p-2.t-blackout-bg-secondary-highlight.rtl-secondaryFont.font-sm.rounded-sm
+shoffree.net##div.px-0.pt-0:nth-of-type(7) > .m-0.p-0.w-100.px-4.pb-4.rtl-primaryFont.t-blackout-text-alternative-highlight.font-lg.row
+shoffree.net##div.px-0.pt-0:nth-of-type(6) > .px-2 > .w-100.pb-3.align-center
+shoffree.net##.p-0.px-2.h-100.t-blackout-bg-secondary-highlight.position-relative.t-blackout-br-primary.col-12.col-md-8.col-lg-7.col-xl-8 > .px-0.pt-0 > .px-2 > .w-100.pb-3.align-center
+shoffree.net###disqus_thread
+shoffree.net##.m-0.p-0.w-100.px-2.pb-4.rtl-primaryFont.t-blackout-text-alternative-highlight.font-lg.row
+shoffree.net##.px-2.d-block.t-blackout-bg-secondary-highlight.p-0.h-100.position-relative.col-12.col-md-4.col-lg-5.col-xl-4 > .w-100.h-auto.m-0.t-blackout-bg-secondary-highlight.rtl-secondaryFont.font-sm.rounded-sm
+shoffree.net##.pb-3.px-0.rtl-primaryFont.py-4.rtl-pull-to-leading.t-blackout-text-alternative-highlight.font-md
+shoffree.net##.SocialMediaIcon
+shoffree.net###ads_list > .p-4.w-100.t-blackout-bg-body.rounded-md-top.rtl-pull-to-leading
+shoffree.net##.w-100.d-md-block.p-2.headsUpView-wrapper.t-blackout-bg-secondary-highlight.null.text-center > div.d-flex:nth-of-type(1) > [href*="https://shoffree.net/ramadan"] > .my-2.rtl-pull-to-leading > .p-0.px-1.h-100.w-100.nowrap.borderless.t-blackout-focus-accent.t-blackout-text-primary-highlight.font-sm.opacity-hover.rounded-sm
+
+! Jun 25, 2024 https://egydead.space
+egydead.space##footer
+egydead.space##.pin-posts-list
+egydead.space##.share-post
+egydead.space##[src*="https://egydead.space/wp-content/uploads/2023/12/Download.png"]
+egydead.space##.singleStory
+egydead.space##.trailerBtn
+egydead.space##.m-slider
+
+! Jun 27, 2024 https://kaido.to
+kaido.to###footer
+kaido.to##.container > .header-setting > .hs-toggles > a.hst-item
