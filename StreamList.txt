@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 202406280226
+! Version: 202406280350
 ! Title: ▶️ RodyStreamList
 ! Description: Filters for clean many free English, Arabic streaming websites.
 ! Maintainer: Murtaza Salih
@@ -151,3 +151,76 @@ egydead.space##.m-slider
 ! Jun 27, 2024 https://kaido.to
 kaido.to###footer
 kaido.to##.container > .header-setting > .hs-toggles > a.hst-item
+
+! Jun 28, 2024 https://llodynet.site
+llodynet.site##.SocialArea
+llodynet.site##.RightHeader
+llodynet.site##.SiteSlider
+llodynet.site##.FeaturedActors
+llodynet.site##div.Section:nth-of-type(1)
+llodynet.site##div.Section:nth-of-type(2)
+llodynet.site##div.Section:nth-of-type(3)
+llodynet.site##footer
+llodynet.site##.Title
+llodynet.site##.Breadcrumbs
+llodynet.site##.TitleSingle > ul
+llodynet.site##.PublishDate
+llodynet.site##.ReactArea
+llodynet.site##.PostTags
+llodynet.site##.AdditionalButtons
+llodynet.site##.SingleAboveWatch
+llodynet.site##aside
+llodynet.site##div.RelatedSection.RecentPosts
+llodynet.site##.DetailsBoxContentInner > h2
+llodynet.site##.WatchTitle
+llodynet.site##.Tabs > ul > li:nth-of-type(2)
+llodynet.site###menu-item-252273 > [href="#"]
+llodynet.site##.menu-item-252272.menu-item-object-page.menu-item-type-post_type.menu-item
+llodynet.site##[href="https://lodynet.link/contact-us/"]
+llodynet.site##.SocialShare
+
+! Jun 28, 2024 https://ak.sv
+ak.sv##.mb-3.ads
+ak.sv##a.px-4.rounded-pill.btn:nth-of-type(1)
+ak.sv##.rating.label
+ak.sv##.py-5.main-footer
+ak.sv##.align-items-center.d-flex.btn-pill.btn-light.btn
+ak.sv##.mt-2.hal-container.text-white.align-items-center.d-sm-flex.d-none.btn-pill.btn-share.btn
+ak.sv##.pt-3.mt-auto
+ak.sv##.col-md-10.col-lg-8
+go.ak.sv##.content > .container
+ak.sv##.container > .text-left
+ak.sv##.user-profile-container.col-auto
+ak.sv##.mb-4.more.widget-style-1.widget.widget-4
+
+! Jun 28, 2024 https://anime3rb.com
+anime3rb.com##.z-50.overflow-auto.bg-black\/60.left-0.right-0.top-0.h-full.fixed
+anime3rb.com##.my-3.p-6.dark\:bg-dark-700\/30.bg-gray-100\/80.justify-center.items-center.gap-4.flex-col.flex
+anime3rb.com##.dark\:bg-dark-700\/30.bg-yellow-50.justify-between.items-center.gap-2.flex.\!rounded-none.\!py-5.\!px-8.dark\:\!text-gray-150.dark\:opacity-95.dark\:active\:bg-dark-600.active\:bg-gray-200.dark\:focus\:bg-dark-700.focus\:bg-gray-100.dark\:hover\:bg-dark-700.hover\:bg-gray-100.py-2.px-4.dark\:focus\:text-gray-100.dark\:hover\:text-gray-100.dark\:text-gray-200.focus\:text-gray-900.hover\:text-gray-900.text-gray-700.rounded-lg.inline-block.focus\:outline-none
+anime3rb.com##.md\:flex.hidden.xl\:ms-6.lg\:ms-2 > a.dark\:active\:bg-dark-600.active\:bg-gray-200.dark\:focus\:bg-dark-700.focus\:bg-gray-100.dark\:hover\:bg-dark-700.hover\:bg-gray-100.py-2.px-4.dark\:focus\:text-gray-100.dark\:hover\:text-gray-100.dark\:text-gray-200.focus\:text-gray-900.hover\:text-gray-900.text-gray-700.rounded-lg.inline-block.focus\:outline-none:nth-of-type(2)
+anime3rb.com##.gap-4.items-center.sm\:justify-between.justify-center.flex-wrap.sm\:flex-row.flex-col.flex.md\:py-4.py-8.px-4.text-center.mx-auto.container
+anime3rb.com##.dark\:bg-dark-700\/30.bg-gray-100\/70.rounded-lg.flex-col.flex
+anime3rb.com##.py-8.xl\:px-6.px-4.dark\:bg-dark-790.bg-gray-100
+
+! Jun 28, 2024 https://arlionztv.pro
+arlionztv.pro##.telegram-anchor
+arlionztv.pro##li.ChildrenMenu:nth-of-type(3)
+arlionztv.pro##li.ChildrenMenu:nth-of-type(5)
+arlionztv.pro##.fa__play
+arlionztv.pro##.twitter
+arlionztv.pro##.facebook
+arlionztv.pro##.First--Style.Section--Titles
+arlionztv.pro##footer
+arlionztv.pro##rootinside > div.adsLionz > [href="https://tinyurl.com/lionz-iptv"] > .size-full.wp-image-317131.alignnone
+arlionztv.pro##.BreadCRumbs
+arlionztv.pro##.Singular--Cover > div.adsLionz
+arlionztv.pro##singular--tabas
+arlionztv.pro##.Content--POST
+arlionztv.pro##.My--Scroll--TeamWork
+arlionztv.pro##.active.active__link.More--SinularData
+arlionztv.pro##.Under--title.T--In--Bx
+arlionztv.pro##div.Posts--Single--Box:nth-of-type(11)
+arlionztv.pro##div.Posts--Single--Box:nth-of-type(10)
+arlionztv.pro##.active__link.More--SinularData
+arlionztv.pro##.Singular--Geners
+
