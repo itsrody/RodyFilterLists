@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 202406280350
+! Version: 202406280400
 ! Title: ▶️ RodyStreamList
 ! Description: Filters for clean many free English, Arabic streaming websites.
 ! Maintainer: Murtaza Salih
@@ -115,11 +115,12 @@ qw.spotnews.buzz##.header-footer-group.has-text-align-center.entry-header
 qw.spotnews.buzz##.entry-content
 qw.spotnews.buzz##.category-2.hentry.format-standard.status-publish.type-post.post.post-74
 
-! Jun 20, 2024 http://aflamlab.com
+! Jun 28, 2024 http://aflamlab.com
 aflamlab.com##aside
 aflamlab.com##.Footer
 aflamlab.com##section:nth-of-type(3)
 aflamlab.com##.ClFx
+aflamlab.com##.MovieListTop
 
 ! Jun 25, 2024 https://shoffree.net
 shoffree.net##.p-0.px-3.t-blackout-bg-secondary.d-none.d-md-block.col-md-3
