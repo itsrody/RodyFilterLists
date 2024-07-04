@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 202407030446
+! Version: 202407040446
 ! Title: ▶️ RodyStreamList
 ! Description: Filters for clean many free English, Arabic streaming websites.
 ! Maintainer: Murtaza Salih
@@ -66,6 +66,18 @@ hdtoday.tv##.file_realted-list.film_related
 hdtoday.tv##.breadcrumb
 hdtoday.tv##.mr-2.btn-secondary.btn-radius.btn-sm.btn.goto-comments
 hdtoday.tv###turn-off-light
+
+! Jul 4, 2024 https://hydrahd.com
+hydrahd.com##.chat-button
+hydrahd.com##.swiper-slide-active.swiper-slide > .infoslide > b.slidestars:nth-of-type(5)
+hydrahd.com##.rating
+hydrahd.com##center
+hydrahd.com##.active.trendingmovz
+hydrahd.com###scrolltotrending
+hydrahd.com##footer
+hydrahd.com##div.info.alert:nth-of-type(1)
+hydrahd.com##div.info.alert:nth-of-type(3)
+hydrahd.com##.diz-title.row > span > div
 
 ! Jun 19, 2024 https://www.tuktukcima.com
 www.tuktukcima.com##.Left--Anchors
