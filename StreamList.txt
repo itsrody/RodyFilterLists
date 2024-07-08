@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 202407040446
+! Version: 2024070804738
 ! Title: ▶️ RodyStreamList
 ! Description: Filters for clean many free English, Arabic streaming websites.
 ! Maintainer: Murtaza Salih
@@ -297,8 +297,6 @@ www.youtube.com###paid-comment-chip > .yt-pdg-comment-chip-renderer.style-scope
 www.youtube.com###paid-comment-background
 ! YouTube Membership Popup
 www.youtube.com###contentWrapper > .ytd-popup-container.style-scope:has(span:has-text(/Membership/i))
-! YouTube Watch next / Related
-www.youtube.com##ytd-item-section-renderer.ytd-watch-next-secondary-results-renderer.style-scope
 ! YouTube Related Keywords
 www.youtube.com###content > .yt-related-chip-cloud-renderer.style-scope
 ! YouTube Shorts
@@ -321,6 +319,3 @@ www.youtube.com###dismissible.ytd-video-renderer.style-scope:has(.ytd-thumbnail-
 www.youtube.com###dismissible.ytd-video-renderer.style-scope:has(.ytd-thumbnail-overlay-time-status-renderer.style-scope:has-text(/\s(0:\d\d|1:\d\d)\s/))
 ! YouTube Home
 www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-row.style-scope:has(ytd-thumbnail-overlay-time-status-renderer.ytd-thumbnail.style-scope:has(span:has-text(/\s(0:\d\d|1:\d\d)\s/)))
-! YouTube Video Page
-www.youtube.com##ytd-grid-video-renderer.ytd-grid-renderer.style-scope:has(ytd-thumbnail-overlay-time-status-renderer.ytd-thumbnail.style-scope:has(span:has-text(/\s(0:\d\d|1:\d\d)\s/)))
-
