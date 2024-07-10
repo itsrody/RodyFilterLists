@@ -1,12 +1,12 @@
 [Adblock Plus]
-! Version: 2024071004738
+! Version: 2024071104738
 ! Title: ▶️ RodyStreamList
 ! Description: Filters for clean many free English, Arabic streaming websites.
 ! Maintainer: Murtaza Salih
 ! Expires: 2 hours
 ! Homepage: https://github.com/itsrody/RodyFilterLists
 
-! Jul 10, 2024 https://www.faselhds.care
+! Jul 11, 2024 https://www.faselhds.care
 www.faselhds.care##.dwnApp
 www.faselhds.care##.ml-auto.promoLink
 www.faselhds.care##.promoTab
@@ -36,6 +36,9 @@ www.faselhds.care##.social-block
 www.faselhds.care##.Teamwork.AsideContext
 www.faselhds.care##.subs-btn-wrapper
 www.faselhds.care##.postShare
+www.faselhds.care##.posTop
+www.faselhds.care##div.col-sm-3.col-md-3.col-lg-2.col-xl-2:nth-of-type(6)
+www.faselhds.care##.ralatedMovies
 
 ! Jun 28, 2024 https://hdtoday.tv
 hdtoday.tv##.mb-5.mw-body
