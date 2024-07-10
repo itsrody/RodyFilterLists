@@ -1,48 +1,41 @@
 [Adblock Plus]
-! Version: 2024070804738
+! Version: 2024071004738
 ! Title: ▶️ RodyStreamList
 ! Description: Filters for clean many free English, Arabic streaming websites.
 ! Maintainer: Murtaza Salih
 ! Expires: 2 hours
 ! Homepage: https://github.com/itsrody/RodyFilterLists
 
-! Jul 03, 2024 https://www.faselhds.world
-www.faselhds.care##.Teamwork.AsideContext
+! Jul 10, 2024 https://www.faselhds.care
 www.faselhds.care##.dwnApp
 www.faselhds.care##.ml-auto.promoLink
 www.faselhds.care##.promoTab
-www.faselhds.care##.starRating
-www.faselhds.care##.thumbs-rating-container
-www.faselhds.care##.alert-danger.alert
-www.faselhds.care##.postElse
-www.faselhds.care##.downloadLinks
-www.faselhds.care###footer
-www.faselhds.care##span.cat
-www.faselhds.care##.pViews
-www.faselhds.care##.pImdb
 www.faselhds.care##.breakNews
-www.faselhds.care###pr
-www.faselhds.care##.bCat
-www.faselhds.care##.bviews
-www.faselhds.care##.bimdb
-www.faselhds.care##.accImg
-www.faselhds.care##.col-sm-12.col-md-12.col-lg-4.col-xl-4
-www.faselhds.care##a.accItem:nth-of-type(4)
-www.faselhds.care##div#blockList.mt-3.blockAlt.watchlist-box:nth-of-type(2)
-www.faselhds.world##div#blockList.mt-3.blockAlt.watchlist-box:nth-of-type(4)
-www.faselhds.care##.quality
-www.faselhds.care###a9WMTfh5F4Crw
-www.faselhds.care###aMC89eI322dI6
-www.faselhds.care###a3YP7u9FmxEXY
-www.faselhds.care###an1qXxD84JnjP
 www.faselhds.care##.mb-1.slideMeta
-www.faselhds.care##.mb-2.slideCats
-www.faselhds.care##.social-block 
-www.faselhds.care##.posTop
+www.faselhds.care###pr
+www.faselhds.care###footer
+www.faselhds.care###scroll-to-top
+www.faselhds.care##.user-head-notifys
+www.faselhds.care##div.col-sm-12.col-md-12.col-lg-8.col-xl-8:nth-of-type(2)
+www.faselhds.care##div.col-sm-12.col-md-12.col-lg-8.col-xl-8:nth-of-type(6)
+www.faselhds.care##.blockMovieMeta
+www.faselhds.care##.accImg
+www.faselhds.care##.justify-content-center.align-items-center.row > .col-sm-12.col-md-12.col-lg-4.col-xl-4
+www.faselhds.care##a.accItem:nth-of-type(4)
+www.faselhds.care##a.accItem:nth-of-type(1)
+www.faselhds.care##.show.dropdown-menu > a.dropdown-item:nth-of-type(1)
+www.faselhds.care##[href="https://www.faselhd.center/account/ajax"] > .imgdiv-class > .img-fluid
+www.faselhds.care##div#blockList.mt-3.blockAlt.watchlist-box:nth-of-type(4)
+www.faselhds.care##div#blockList.mt-3.blockAlt.watchlist-box:nth-of-type(2)
+www.faselhds.care##.open-video > .fa-play.fad
+www.faselhds.care##.thumbs-rating-container
+www.faselhds.care##.starRating
+www.faselhds.care##.downloadLinks
 www.faselhds.care##.singleStar
-www.faselhds.care##.promoLink
-www.faselhds.care##.social
-www.faselhds.care##div.ralatedMovies
+www.faselhds.care##.social-block
+www.faselhds.care##.Teamwork.AsideContext
+www.faselhds.care##.subs-btn-wrapper
+www.faselhds.care##.postShare
 
 ! Jun 28, 2024 https://hdtoday.tv
 hdtoday.tv##.mb-5.mw-body
