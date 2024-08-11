@@ -1,12 +1,12 @@
-[Adblock Plus]
-! Version: 2024071204740
+[uBlock Origin]
+! Version: 2024081104740
 ! Title: ▶️ RodyStreamList
 ! Description: Filters for clean many free English, Arabic streaming websites.
 ! Maintainer: Murtaza Salih
 ! Expires: 2 hours
 ! Homepage: https://github.com/itsrody/RodyFilterLists
 
-! Jul 11, 2024 https://www.faselhds.care
+! Aug 11, 2024 https://www.faselhds.care
 www.faselhds.care##.dwnApp
 www.faselhds.care##.ml-auto.promoLink
 www.faselhds.care##.promoTab
@@ -39,6 +39,8 @@ www.faselhds.care##.postShare
 www.faselhds.care##.posTop
 www.faselhds.care##div.col-sm-3.col-md-3.col-lg-2.col-xl-2:nth-of-type(6)
 www.faselhds.care##.ralatedMovies
+www.faselhds.care##.promoLink
+www.faselhds.care##.social
 
 ! Jun 28, 2024 https://hdtoday.tv
 hdtoday.tv##.mb-5.mw-body
@@ -105,24 +107,25 @@ best-drama.com##.footer-top
 best-drama.com##.footer
 best-drama.com##.starstruck-wrap
 
-! Jul 11, 2024 5tv.asia
-5tv.asia##.vote-cn
-5tv.asia##.rcl0c.rfg1.rw.options
-5tv.asia##.tac.ft
-5tv.asia##.widget.comments-area
-5tv.asia##.episodes.section
-5tv.asia##.blk.aa-mdl.fa-user.lnk.btn-login.btn
-5tv.asia##.or-1.dv.dfxc.menu > .menu-item-129997.menu-item-object-page.menu-item-type-post_type.menu-item
-5tv.asia###menu-item-106263 > [href="https://asia.5ivttv.vip/favorites/"]
-5tv.asia###menu-item-28656 > [href="/release/2024/"]
-5tv.asia###menu-item-44587 > [href="/release/2023/"]
-5tv.asia###post-132390 > .movies.fcl.dfx.post > .lnk-blk
+! Aug 11, 2024 https://5tv.asia
+5tv.asia##.menu-item-106263.menu-item-object-page.menu-item-type-post_type.menu-item
+5tv.asia###widget_list_movies_series-4
+5tv.asia###widget_list_movies_series-6
+5tv.asia###widget_list_movies_series-11
+5tv.asia###widget_list_movies_series-12
+5tv.asia###widget_list_movies_series-10
+5tv.asia###widget_list_movies_series-8
+5tv.asia###widget_list_movies_series-9
+5tv.asia###widget_list_movies_series-7
+5tv.asia##.ccc-favorite-post-toggle
+5tv.asia###fav-tv > span
+5tv.asia##.description > h3
 
-! Jul 11, 2024 https://qw.spotnews.buzz
-qw.spotnews.buzz##.header-footer-group.has-text-align-center.entry-header
-qw.spotnews.buzz##.entry-content
-qw.spotnews.buzz##.category-2.hentry.format-standard.status-publish.type-post.post.post-74
-qw.spotnews.buzz##.category-2.hentry.format-standard.status-publish.type-post.post.post-229
+! Aug 11, 2024 https://qw.spotnews.buzz
+qw.spotnews.buzz##.category-2.hentry.format-standard.status-publish.type-post.post.post-71
+qw.spotnews.buzz###site-footer
+qw.spotnews.buzz##.sticky-bottom-close
+qw.spotnews.buzz##server--title
 
 ! Jun 28, 2024 http://aflamlab.com
 aflamlab.com##aside
@@ -130,6 +133,11 @@ aflamlab.com##.Footer
 aflamlab.com##section:nth-of-type(3)
 aflamlab.com##.ClFx
 aflamlab.com##.MovieListTop
+aflamlab.com##.asp_w_container_4_1.asp_w_container_4.asp_w_container
+aflamlab.com##.AZList
+aflamlab.com###تحميل
+aflamlab.com##.TpRwCont h2
+aflamlab.com###disqus_thread
 
 ! Jun 25, 2024 https://shoffree.net
 shoffree.net##.p-0.px-3.t-blackout-bg-secondary.d-none.d-md-block.col-md-3
@@ -212,27 +220,23 @@ anime3rb.com##.gap-4.items-center.sm\:justify-between.justify-center.flex-wrap.s
 anime3rb.com##.dark\:bg-dark-700\/30.bg-gray-100\/70.rounded-lg.flex-col.flex
 anime3rb.com##.py-8.xl\:px-6.px-4.dark\:bg-dark-790.bg-gray-100
 
-! Jun 28, 2024 https://arlionztv.pro
-arlionztv.pro##.telegram-anchor
-arlionztv.pro##li.ChildrenMenu:nth-of-type(3)
-arlionztv.pro##li.ChildrenMenu:nth-of-type(5)
-arlionztv.pro##.fa__play
-arlionztv.pro##.twitter
-arlionztv.pro##.facebook
-arlionztv.pro##.First--Style.Section--Titles
-arlionztv.pro##footer
-arlionztv.pro##rootinside > div.adsLionz > [href="https://tinyurl.com/lionz-iptv"] > .size-full.wp-image-317131.alignnone
-arlionztv.pro##.BreadCRumbs
-arlionztv.pro##.Singular--Cover > div.adsLionz
-arlionztv.pro##singular--tabas
-arlionztv.pro##.Content--POST
-arlionztv.pro##.My--Scroll--TeamWork
-arlionztv.pro##.active.active__link.More--SinularData
-arlionztv.pro##.Under--title.T--In--Bx
-arlionztv.pro##div.Posts--Single--Box:nth-of-type(11)
-arlionztv.pro##div.Posts--Single--Box:nth-of-type(10)
-arlionztv.pro##.active__link.More--SinularData
-arlionztv.pro##.Singular--Geners
+! Aug 11, 2024 https://arablionztv.com
+arablionztv.com##.First--Style.Section--Titles
+arablionztv.com##.telegram-anchor
+arablionztv.com##div.Posts--Single--Box:nth-of-type(12)
+arablionztv.com##div.Posts--Single--Box:nth-of-type(13)
+arablionztv.com##footer
+arablionztv.com##.fa__play
+arablionztv.com##.twitter
+arablionztv.com##.facebook
+arablionztv.com##[href="https://arablionztv.com/download-series/"]
+arablionztv.com##.fixed > .MainMenus > custom--menu--master > ul > li.Menu--Is--SubMenu.ChildrenMenu:nth-of-type(4) > [href="https://arablionztv.com/category/series/"]
+arablionztv.com##.size-full.wp-image-317131.alignnone
+arablionztv.com##singular--tabas
+arablionztv.com##.My--Scroll--TeamWork
+arablionztv.com##.active.active__link.More--SinularData
+arablionztv.com##.PostsScrollLoader
+arablionztv.com##.BreadCRumbs
 
 ! Jul 12, 2024 https://asiatv.one
 asiatv.one##footer
