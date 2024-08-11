@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Version: 2024081104750
+! Version: 2024081104850
 ! Title: ▶️ RodyStreamList
 ! Description: Filters for clean many free English, Arabic streaming websites.
 ! Maintainer: Murtaza Salih
@@ -155,7 +155,7 @@ shoffree.net##.SocialMediaIcon
 shoffree.net###ads_list > .p-4.w-100.t-blackout-bg-body.rounded-md-top.rtl-pull-to-leading
 shoffree.net##.w-100.d-md-block.p-2.headsUpView-wrapper.t-blackout-bg-secondary-highlight.null.text-center > div.d-flex:nth-of-type(1) > [href*="https://shoffree.net/ramadan"] > .my-2.rtl-pull-to-leading > .p-0.px-1.h-100.w-100.nowrap.borderless.t-blackout-focus-accent.t-blackout-text-primary-highlight.font-sm.opacity-hover.rounded-sm
 
-! Jun 25, 2024 https://egydead.space
+! Aug 11, 2024 https://egydead.space
 egydead.space##footer
 egydead.space##.pin-posts-list
 egydead.space##.share-post
@@ -163,6 +163,13 @@ egydead.space##[src*="https://egydead.space/wp-content/uploads/2023/12/Download.
 egydead.space##.singleStory
 egydead.space##.trailerBtn
 egydead.space##.m-slider
+egydead.space##section.ads
+egydead.space###breadcrumbs
+egydead.space##.breadcrumbs-single
+egydead.space##.singleTopper
+egydead.space##.workTeam
+egydead.space##div.related-posts:nth-of-type(2)
+egydead.space##.downloadMaster
 
 ! Jun 27, 2024 https://kaido.to
 kaido.to###footer
