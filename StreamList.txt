@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Version: 2024081104740
+! Version: 2024081104750
 ! Title: ▶️ RodyStreamList
 ! Description: Filters for clean many free English, Arabic streaming websites.
 ! Maintainer: Murtaza Salih
@@ -16,8 +16,6 @@ www.faselhds.care###pr
 www.faselhds.care###footer
 www.faselhds.care###scroll-to-top
 www.faselhds.care##.user-head-notifys
-www.faselhds.care##div.col-sm-12.col-md-12.col-lg-8.col-xl-8:nth-of-type(2)
-www.faselhds.care##div.col-sm-12.col-md-12.col-lg-8.col-xl-8:nth-of-type(6)
 www.faselhds.care##.blockMovieMeta
 www.faselhds.care##.accImg
 www.faselhds.care##.justify-content-center.align-items-center.row > .col-sm-12.col-md-12.col-lg-4.col-xl-4
