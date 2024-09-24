@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Version: 2024092004850
+! Version: 2024092404850
 ! Title: ▶️ RodyStreamList
 ! Description: Filters for clean many free English, Arabic streaming websites.
 ! Maintainer: Murtaza Salih
@@ -92,7 +92,7 @@ www.tuktukcima.com##.WatcHTrailer.trl
 www.tuktukcima.com##.tabs > ul > li:nth-of-type(3)
 www.tuktukcima.com##.imdbS
 
-! Sep 20, 2024 https://wecima.show
+! Sep 24, 2024 https://wecima.show
 wecima.show##.Menubar--UX
 wecima.show##.Slider--Grid
 wecima.show##.WecimaonSocialnetwork
@@ -106,6 +106,13 @@ wecima.show##widgetattach:nth-of-type(1)
 wecima.show##widgetattach
 wecima.show##wecimaactivities
 wecima.show##.tabs
+wecima.movie##footer
+wecima.movie##.LeftSideFlex
+wecima.movie##.WecimaonSocialnetwork
+wecima.movie##.-movie-info-share
+wecima.movie##singlecontainerleft
+wecima.movie##singlerelated
+wecima.movie##.BreadcrumbsFilters .unline
 
 ! Jun 20, 2024 https://best-drama.com
 best-drama.com##.mt-0.block-bgcolor-att.padding_50
