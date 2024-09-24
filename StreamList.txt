@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Version: 2024092404850
+! Version: 2024092404851
 ! Title: ▶️ RodyStreamList
 ! Description: Filters for clean many free English, Arabic streaming websites.
 ! Maintainer: Murtaza Salih
@@ -65,18 +65,6 @@ hdtoday.tv##.breadcrumb
 hdtoday.tv##.mr-2.btn-secondary.btn-radius.btn-sm.btn.goto-comments
 hdtoday.tv###turn-off-light
 
-! Jul 4, 2024 https://hydrahd.com
-hydrahd.com##.chat-button
-hydrahd.com##.swiper-slide-active.swiper-slide > .infoslide > b.slidestars:nth-of-type(5)
-hydrahd.com##.rating
-hydrahd.com##center
-hydrahd.com##.active.trendingmovz
-hydrahd.com###scrolltotrending
-hydrahd.com##footer
-hydrahd.com##div.info.alert:nth-of-type(1)
-hydrahd.com##div.info.alert:nth-of-type(3)
-hydrahd.com##.diz-title.row > span > div
-
 ! Jun 19, 2024 https://www.tuktukcima.com
 www.tuktukcima.com##.Left--Anchors
 www.tuktukcima.com##.News--Content
@@ -120,7 +108,7 @@ best-drama.com##.footer-top
 best-drama.com##.footer
 best-drama.com##.starstruck-wrap
 
-! Aug 11, 2024 https://5tv.asia
+! Sep 24, 2024 https://5tv.asia
 5tv.asia##.menu-item-106263.menu-item-object-page.menu-item-type-post_type.menu-item
 5tv.asia###widget_list_movies_series-4
 5tv.asia###widget_list_movies_series-6
@@ -133,14 +121,27 @@ best-drama.com##.starstruck-wrap
 5tv.asia##.ccc-favorite-post-toggle
 5tv.asia###fav-tv > span
 5tv.asia##.description > h3
+5tv.asia##[href="https://5tv.asia/%D8%AA%D8%B5%D9%81%D8%AD-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D8%B9%D9%84%D8%A7%D9%86%D8%A7%D8%AA/"]
+5tv.asia##[href="/release/2024/"]
+5tv.asia##.blk.aa-mdl.fa-user.lnk.btn-login.btn
+5tv.asia##.tac.ft
+5tv.asia##.widget.comments-area
+5tv.asia##.owl-stage
+5tv.asia##.alg-cr.jst-sb.dfxa
+5tv.asia##.description > p:nth-of-type(1)
+5tv.asia##.genres
 
-! Aug 11, 2024 https://qw.spotnews.buzz
-qw.spotnews.buzz##.category-2.hentry.format-standard.status-publish.type-post.post.post-71
-qw.spotnews.buzz###site-footer
-qw.spotnews.buzz##.sticky-bottom-close
-qw.spotnews.buzz##server--title
+! Sep 24, 2024 https://play.spotnews.buzz
+play.spotnews.buzz##.header-footer-group.has-text-align-center.entry-header
+play.spotnews.buzz##.entry-content
+play.spotnews.buzz##.only-prev.only-one.section-inner.pagination-single
+play.spotnews.buzz##.comment-respond
+play.spotnews.buzz###site-footer
+play.spotnews.buzz##.adfoxly-close-sticky-x
+play.spotnews.buzz##.thin.post-inner
+play.spotnews.buzz##.adsbygoogle
 
-! Jun 28, 2024 http://aflamlab.com
+! Sep 24, 2024 http://aflamlab.com
 aflamlab.com##aside
 aflamlab.com##.Footer
 aflamlab.com##section:nth-of-type(3)
@@ -151,6 +152,8 @@ aflamlab.com##.AZList
 aflamlab.com###تحميل
 aflamlab.com##.TpRwCont h2
 aflamlab.com###disqus_thread
+aflamlab.com##.MovieListSld
+aflamlab.com###fb-like-popup
 
 ! Jun 25, 2024 https://shoffree.net
 shoffree.net##.p-0.px-3.t-blackout-bg-secondary.d-none.d-md-block.col-md-3
