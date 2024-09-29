@@ -1,12 +1,12 @@
 [uBlock Origin]
-! Version: 2024092404851
+! Version: 2024092904851
 ! Title: ▶️ RodyStreamList
 ! Description: Filters for clean many free English, Arabic streaming websites.
 ! Maintainer: Murtaza Salih
 ! Expires: 2 hours
 ! Homepage: https://github.com/itsrody/RodyFilterLists
 
-! Sep 15, 2024 https://www.faselhds.care
+! Sep 29, 2024 https://www.faselhds.care
 www.faselhds.care##.dwnApp
 www.faselhds.care##.ml-auto.promoLink
 www.faselhds.care##.promoTab
@@ -41,6 +41,7 @@ www.faselhds.care##.promoLink
 www.faselhds.care##.social
 www.faselhds.care##.accBtn
 www.faselhds.care##.shortLink
+faselhds.care##.alert, .alert-danger
 
 ! Jun 28, 2024 https://hdtoday.tv
 hdtoday.tv##.mb-5.mw-body
