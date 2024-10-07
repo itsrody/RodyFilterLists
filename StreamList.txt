@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Version: 2024100707059
+! Version: 2024100707045
 ! Title: ▶️ RodyStreamList
 ! Description: Filters for clean many free English, Arabic streaming websites.
 ! Maintainer: Murtaza Salih
@@ -98,51 +98,6 @@ wecima.movie##singlecontainerleft
 wecima.movie##singlerelated
 wecima.movie##.BreadcrumbsFilters .unline
 
-! Jun 20, 2024 https://best-drama.com
-best-drama.com##.mt-0.block-bgcolor-att.padding_50
-best-drama.com##.footer-top
-best-drama.com##.footer
-best-drama.com##.starstruck-wrap
-
-! Oct 7, 2024 https://5tv.asia
-5tv.asia##.menu-item-106263.menu-item-object-page.menu-item-type-post_type.menu-item
-5tv.asia###widget_list_movies_series-4
-5tv.asia###widget_list_movies_series-6
-5tv.asia###widget_list_movies_series-11
-5tv.asia###widget_list_movies_series-12
-5tv.asia###widget_list_movies_series-10
-5tv.asia###widget_list_movies_series-8
-5tv.asia###widget_list_movies_series-9
-5tv.asia###widget_list_movies_series-7
-5tv.asia##.ccc-favorite-post-toggle
-5tv.asia###fav-tv > span
-5tv.asia##.description > h3
-5tv.asia##[href="https://5tv.asia/%D8%AA%D8%B5%D9%81%D8%AD-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D8%B9%D9%84%D8%A7%D9%86%D8%A7%D8%AA/"]
-5tv.asia##[href="/release/2024/"]
-5tv.asia##.blk.aa-mdl.fa-user.lnk.btn-login.btn
-5tv.asia##.tac.ft
-5tv.asia##.widget.comments-area
-5tv.asia##.owl-stage
-5tv.asia##.alg-cr.jst-sb.dfxa
-5tv.asia##.description > p:nth-of-type(1)
-5tv.asia##.genres
-5tv.asia##.jst-sb.alg-cr.rw
-5tv.asia##section.episodes.section:nth-of-type(2)
-5tv.asia##.or-1.dv.dfxc.menu > .menu-item-107754.menu-item-object-page.menu-item-type-post_type.menu-item
-5tv.asia##.fwp.dfx.cast-lst
-5tv.asia##.far.fa-clock.duration
-5tv.asia##.mab1.epsdsnv
-
-! Sep 24, 2024 https://play.spotnews.buzz
-play.spotnews.buzz##.header-footer-group.has-text-align-center.entry-header
-play.spotnews.buzz##.entry-content
-play.spotnews.buzz##.only-prev.only-one.section-inner.pagination-single
-play.spotnews.buzz##.comment-respond
-play.spotnews.buzz###site-footer
-play.spotnews.buzz##.adfoxly-close-sticky-x
-play.spotnews.buzz##.thin.post-inner
-play.spotnews.buzz##.adsbygoogle
-
 ! Sep 24, 2024 http://aflamlab.com
 aflamlab.com##aside
 aflamlab.com##.Footer
@@ -174,53 +129,6 @@ shoffree.net##.pb-3.px-0.rtl-primaryFont.py-4.rtl-pull-to-leading.t-blackout-tex
 shoffree.net##.SocialMediaIcon
 shoffree.net###ads_list > .p-4.w-100.t-blackout-bg-body.rounded-md-top.rtl-pull-to-leading
 shoffree.net##.w-100.d-md-block.p-2.headsUpView-wrapper.t-blackout-bg-secondary-highlight.null.text-center > div.d-flex:nth-of-type(1) > [href*="https://shoffree.net/ramadan"] > .my-2.rtl-pull-to-leading > .p-0.px-1.h-100.w-100.nowrap.borderless.t-blackout-focus-accent.t-blackout-text-primary-highlight.font-sm.opacity-hover.rounded-sm
-
-! Aug 11, 2024 https://egydead.space
-egydead.space##footer
-egydead.space##.pin-posts-list
-egydead.space##.share-post
-egydead.space##[src*="https://egydead.space/wp-content/uploads/2023/12/Download.png"]
-egydead.space##.singleStory
-egydead.space##.trailerBtn
-egydead.space##.m-slider
-egydead.space##section.ads
-egydead.space###breadcrumbs
-egydead.space##.breadcrumbs-single
-egydead.space##.singleTopper
-egydead.space##.workTeam
-egydead.space##div.related-posts:nth-of-type(2)
-egydead.space##.downloadMaster
-
-! Jun 27, 2024 https://kaido.to
-kaido.to###footer
-kaido.to##.container > .header-setting > .hs-toggles > a.hst-item
-
-! Jun 28, 2024 https://llodynet.site
-llodynet.site##.SocialArea
-llodynet.site##.RightHeader
-llodynet.site##.SiteSlider
-llodynet.site##.FeaturedActors
-llodynet.site##div.Section:nth-of-type(1)
-llodynet.site##div.Section:nth-of-type(2)
-llodynet.site##div.Section:nth-of-type(3)
-llodynet.site##footer
-llodynet.site##.Title
-llodynet.site##.Breadcrumbs
-llodynet.site##.TitleSingle > ul
-llodynet.site##.PublishDate
-llodynet.site##.ReactArea
-llodynet.site##.PostTags
-llodynet.site##.AdditionalButtons
-llodynet.site##.SingleAboveWatch
-llodynet.site##aside
-llodynet.site##div.RelatedSection.RecentPosts
-llodynet.site##.DetailsBoxContentInner > h2
-llodynet.site##.WatchTitle
-llodynet.site##.Tabs > ul > li:nth-of-type(2)
-llodynet.site###menu-item-252273 > [href="#"]
-llodynet.site##.menu-item-252272.menu-item-object-page.menu-item-type-post_type.menu-item
-llodynet.site##[href="https://lodynet.link/contact-us/"]
-llodynet.site##.SocialShare
 
 ! Jun 28, 2024 https://ak.sv
 ak.sv##.mb-3.ads
@@ -262,21 +170,3 @@ arablionztv.com##.My--Scroll--TeamWork
 arablionztv.com##.active.active__link.More--SinularData
 arablionztv.com##.PostsScrollLoader
 arablionztv.com##.BreadCRumbs
-
-! Jul 12, 2024 https://asiatv.one
-asiatv.one##footer
-asiatv.one###menu-item-16867
-asiatv.one##.sharethis
-asiatv.one##.pb20.pt20.sec-line
-
-! Jul 12, 2024 https://a.asiawiki.co
-a.asiawiki.co##header
-a.asiawiki.co##.widget
-a.asiawiki.co###breadcrumbs
-a.asiawiki.co###YSLMasterCountdown > .con_Ad
-a.asiawiki.co##.description
-a.asiawiki.co##.secComments
-a.asiawiki.co##.postThumb
-a.asiawiki.co##.mb10.secHead > .con_Ad
-a.asiawiki.co##.mt10.secContent
-a.asiawiki.co##footer
