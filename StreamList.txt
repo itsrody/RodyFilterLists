@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Version: 2024100704859
+! Version: 2024100704959
 ! Title: ▶️ RodyStreamList
 ! Description: Filters for clean many free English, Arabic streaming websites.
 ! Maintainer: Murtaza Salih
@@ -133,6 +133,7 @@ best-drama.com##.starstruck-wrap
 5tv.asia##.fwp.dfx.cast-lst
 5tv.asia##.far.fa-clock.duration
 5tv.asia##.cat-t.aa-tbs > li:nth-of-type(4)
+5tv.asia##.off.mar.tertiary-bg.btn
 
 ! Sep 24, 2024 https://play.spotnews.buzz
 play.spotnews.buzz##.header-footer-group.has-text-align-center.entry-header
