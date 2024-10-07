@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Version: 2024100704959
+! Version: 2024100705059
 ! Title: ▶️ RodyStreamList
 ! Description: Filters for clean many free English, Arabic streaming websites.
 ! Maintainer: Murtaza Salih
@@ -88,7 +88,7 @@ wecima.movie##.ProductionsListButton
 wecima.movie##.menu-item-273057.menu-item-object-custom.menu-item-type-custom.menu-item
 wecima.movie##widgetattach:nth-of-type(1)
 wecima.movie##widgetattach
-wecima.movie#wecimaactivities
+wecima.movie##wecimaactivities
 wecima.movie##.tabs
 wecima.movie##footer
 wecima.movie##.LeftSideFlex
