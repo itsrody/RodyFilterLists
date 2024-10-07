@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Version: 2024092904851
+! Version: 2024100704851
 ! Title: ▶️ RodyStreamList
 ! Description: Filters for clean many free English, Arabic streaming websites.
 ! Maintainer: Murtaza Salih
@@ -66,35 +66,30 @@ hdtoday.tv##.breadcrumb
 hdtoday.tv##.mr-2.btn-secondary.btn-radius.btn-sm.btn.goto-comments
 hdtoday.tv###turn-off-light
 
-! Jun 19, 2024 https://www.tuktukcima.com
-www.tuktukcima.com##.Left--Anchors
-www.tuktukcima.com##.News--Content
-www.tuktukcima.com##.Header--Social
-www.tuktukcima.com##.Slides--Item
-www.tuktukcima.com##.liList
-www.tuktukcima.com##.Channels--List
-www.tuktukcima.com##.Footer--Filter
-www.tuktukcima.com##footer
-||ww.tuktukcima.com/wp-content/uploads/2022/06/lela-1.png$image
-www.tuktukcima.com###mpbreadcrumbs
-www.tuktukcima.com##.WatcHTrailer.trl
-www.tuktukcima.com##.tabs > ul > li:nth-of-type(3)
-www.tuktukcima.com##.imdbS
+! Oct 7, 2024 https://tuktukcima.art
+tuktukcima.art##.Left--Anchors
+tuktukcima.art##.News--Content
+tuktukcima.art##.Header--Social
+tuktukcima.art##.Slides--Item
+tuktukcima.art##.liList
+tuktukcima.art##.Channels--List
+tuktukcima.art##.Footer--Filter
+tuktukcima.art##footer
+||tuktukcima.art/wp-content/uploads/2022/06/lela-1.png$image
+tuktukcima.art###mpbreadcrumbs
+tuktukcima.art##.WatcHTrailer.trl
+tuktukcima.art##.tabs > ul > li:nth-of-type(3)
+tuktukcima.art##.imdbS
 
-! Sep 24, 2024 https://wecima.show
-wecima.show##.Menubar--UX
-wecima.show##.Slider--Grid
-wecima.show##.WecimaonSocialnetwork
-wecima.show##singlecontainerleft
-wecima.show##singlerelated
-wecima.show##.BreadcrumbsFilters
-wecima.show##.LeftSideFlex
-wecima.show##.ProductionsListButton
-wecima.show##.menu-item-273057.menu-item-object-custom.menu-item-type-custom.menu-item
-wecima.show##widgetattach:nth-of-type(1)
-wecima.show##widgetattach
-wecima.show##wecimaactivities
-wecima.show##.tabs
+! Oct 7, 2024 https://wecima.movie
+wecima.movie##.Menubar--UX
+wecima.movie##.Slider--Grid
+wecima.movie##.ProductionsListButton
+wecima.movie##.menu-item-273057.menu-item-object-custom.menu-item-type-custom.menu-item
+wecima.movie##widgetattach:nth-of-type(1)
+wecima.movie##widgetattach
+wecima.movie#wecimaactivities
+wecima.movie##.tabs
 wecima.movie##footer
 wecima.movie##.LeftSideFlex
 wecima.movie##.WecimaonSocialnetwork
