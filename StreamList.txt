@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Version: 2024100707045
+! Version: 2024100707046
 ! Title: ▶️ RodyStreamList
 ! Description: Filters for clean many free English, Arabic streaming websites.
 ! Maintainer: Murtaza Salih
@@ -80,6 +80,42 @@ tuktukcima.art###mpbreadcrumbs
 tuktukcima.art##.WatcHTrailer.trl
 tuktukcima.art##.tabs > ul > li:nth-of-type(3)
 tuktukcima.art##.imdbS
+
+! Oct 7, 2024 https://5tv.asia
+5tv.asia##.or-1.dv.dfxc.menu > .menu-item-107754.menu-item-object-page.menu-item-type-post_type.menu-item
+5tv.asia##.or-1.dv.dfxc.menu > .menu-item-106263.menu-item-object-page.menu-item-type-post_type.menu-item
+5tv.asia##.or-1.dv.dfxc.menu > .menu-item-129997.menu-item-object-page.menu-item-type-post_type.menu-item
+5tv.asia##.or-1.dv.dfxc.menu > .menu-item-28656.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
+5tv.asia##.tac.ft
+5tv.asia###widget_list_movies_series-12
+5tv.asia###widget_list_movies_series-11
+5tv.asia###widget_list_movies_series-7
+5tv.asia###widget_list_movies_series-4
+5tv.asia###widget_list_movies_series-6
+5tv.asia###widget_list_movies_series-10
+5tv.asia###widget_list_movies_series-9
+5tv.asia###widget_list_movies_series-8
+5tv.asia##li.cl0c.cl2:nth-of-type(1)
+5tv.asia###fav-tv
+5tv.asia##.entry-meta
+5tv.asia##.description > p:nth-of-type(1)
+5tv.asia##.fwp.dfx.cast-lst
+5tv.asia##.alg-cr.jst-sb.dfxa
+5tv.asia##.widget.comments-area
+5tv.asia##section.episodes.section:nth-of-type(2)
+5tv.asia##.mab1.epsdsnv
+5tv.asia##.description > p:nth-of-type(2)
+5tv.asia##.owl-drag.owl-loaded.carousel.owl-theme.owl-carousel
+5tv.asia##.AsideContext > h3
+
+! Oct 7, 2024 https://play.spotnews.buzz
+play.spotnews.buzz##.header-footer-group.has-text-align-center.entry-header
+play.spotnews.buzz##.entry-content
+play.spotnews.buzz##.section-inner.pagination-single
+play.spotnews.buzz##.comment-respond
+play.spotnews.buzz###site-footer
+play.spotnews.buzz##.thin.post-inner
+play.spotnews.buzz##server--title
 
 ! Oct 7, 2024 https://wecima.movie
 wecima.movie##.Menubar--UX
