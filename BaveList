@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Rody's List for Brave
-! Version: 0.1
+! Version: 0.1.0.1
 ! Expires: 1 days
 ! Homepage: https://github.com/itsrody/RodyFilterLists
 
@@ -9,6 +9,7 @@ www.faselhds.care##.dwnApp
 www.faselhds.care###lastnews
 www.faselhds.care##.accBtn
 www.faselhds.care##.social
+www.faselhds.care##.social-block
 www.faselhds.care##.promoLink
 www.faselhds.care###pr
 www.faselhds.care###footer
@@ -30,7 +31,6 @@ www.faselhds.care##.singleStar
 www.faselhds.care###Teamwork
 www.faselhds.care##div.ralatedMovies
 www.faselhds.care##.alert, .alert-danger
-www.faselhds.care##.overlay
 
 ! Oct 7 WeCima
 wecima.movie##.ProductionsListButton
