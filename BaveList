@@ -1,0 +1,104 @@
+[Adblock Plus 2.0]
+! Title: Rody's List for Brave
+! Version: 0.1
+! Expires: 1 days
+! Homepage: https://github.com/itsrody/RodyFilterLists
+
+! Oct 7, 2024 FaselHD
+www.faselhds.care##.dwnApp
+www.faselhds.care###lastnews
+www.faselhds.care##.accBtn
+www.faselhds.care##.social
+www.faselhds.care##.promoLink
+www.faselhds.care###pr
+www.faselhds.care###footer
+www.faselhds.care##.bCat
+www.faselhds.care##.bviews
+www.faselhds.care#.pViews
+www.faselhds.care##.pImdb
+www.faselhds.care##.sCat
+www.faselhds.care##.seasonMeta
+www.faselhds.care##.posTop
+www.faselhds.care##span.cat
+www.faselhds.care##.singleBtns
+www.faselhds.care##.downloadLinks
+www.faselhds.care##.postElse
+www.faselhds.care##.slideMeta.mb-1
+www.faselhds.care##.slideCats.mb-2
+www.faselhds.care##.bimdb
+www.faselhds.care##.singleStar
+www.faselhds.care###Teamwork
+www.faselhds.care##div.ralatedMovies
+www.faselhds.care##.alert, .alert-danger
+www.faselhds.care##.overlay
+
+! Oct 7 WeCima
+wecima.movie##.ProductionsListButton
+wecima.movie##.LeftSideFlex--user
+wecima.movie###menu-item-273057
+wecima.movie##.Slider--Grid
+wecima.movie##.InnerButton
+wecima.movie##.LeftUI
+wecima.movie##.GotoTop.visible
+wecima.movie##footer
+wecima.movie##.BreadcrumbsFilters
+wecima.movie##.-movie-info-share
+wecima.movie##singlecontainerleft
+wecima.movie##.WecimaonSocialnetwork
+wecima.movie##.Download--Wecima--Single
+wecima.movie##singlerelated
+
+! Oct 7 TukTuk Cinema
+www.tuktukcima.com##.News--Bar
+www.tuktukcima.com##.Header--Social
+www.tuktukcima.com##.Slides--Main.owl-loaded
+www.tuktukcima.com##.Channels--List
+www.tuktukcima.com##.Footer--Filter
+www.tuktukcima.com##footer
+www.tuktukcima.com##.liList
+www.tuktukcima.com##[src*="https://www.tuktukcima.com/wp-content/themes/HayaH20/tuk.png"]
+www.tuktukcima.com##.breadcrumbs
+www.tuktukcima.com##.right
+www.tuktukcima.com##.imdbS
+
+! Oct 7, 2024 5TV
+5tv.asia##.or-1.dv.dfxc.menu > .menu-item-107754.menu-item-object-page.menu-item-type-post_type.menu-item
+5tv.asia##.or-1.dv.dfxc.menu > .menu-item-106263.menu-item-object-page.menu-item-type-post_type.menu-item
+5tv.asia##.or-1.dv.dfxc.menu > .menu-item-129997.menu-item-object-page.menu-item-type-post_type.menu-item
+5tv.asia##.or-1.dv.dfxc.menu > .menu-item-28656.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
+5tv.asia##.tac.ft
+5tv.asia###widget_list_movies_series-12
+5tv.asia###widget_list_movies_series-11
+5tv.asia###widget_list_movies_series-7
+5tv.asia###widget_list_movies_series-4
+5tv.asia###widget_list_movies_series-6
+5tv.asia###widget_list_movies_series-10
+5tv.asia###widget_list_movies_series-9
+5tv.asia###widget_list_movies_series-8
+5tv.asia##li.cl0c.cl2:nth-of-type(1)
+5tv.asia###fav-tv
+5tv.asia##.entry-meta
+5tv.asia##.description > p:nth-of-type(1)
+5tv.asia##.fwp.dfx.cast-lst
+5tv.asia##.alg-cr.jst-sb.dfxa
+5tv.asia##.widget.comments-area
+5tv.asia##section.episodes.section:nth-of-type(2)
+5tv.asia##.mab1.epsdsnv
+5tv.asia##.description > p:nth-of-type(2)
+5tv.asia##.owl-drag.owl-loaded.carousel.owl-theme.owl-carousel
+5tv.asia##.AsideContext > h3
+
+! Oct 7, 2024 5TV sub-website
+play.spotnews.buzz##.header-footer-group.has-text-align-center.entry-header
+play.spotnews.buzz##.entry-content
+play.spotnews.buzz##.section-inner.pagination-single
+play.spotnews.buzz##.comment-respond
+play.spotnews.buzz###site-footer
+play.spotnews.buzz##.thin.post-inner
+play.spotnews.buzz##server--title
+
+
+
+
+
+
