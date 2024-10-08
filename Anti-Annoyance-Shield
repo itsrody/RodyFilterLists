@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Version: 0.0.1
+! Version: 0.0.3
 ! Title: 🛡️Anti-Annoyance Shield
 ! Description: Filters for clean websites.
 ! Maintainer: Murtaza Salih
 ! Expires: 1 hours
 ! Homepage: https://github.com/itsrody/RodyFilterLists
 
-! Oct 7, 2024 FaselHD
+! Oct 8, 2024 FaselHD
 www.faselhds.care##.dwnApp
 www.faselhds.care###lastnews
 www.faselhds.care##.accBtn
@@ -37,7 +37,52 @@ www.faselhds.care##.alert, .alert-danger
 @@||jwpcdn.com^
 ||omzatbos.com^
 
-! Oct 7 WeCima
+! Oct 8, 2024 Anime3rb
+anime3rb.com##.dark\:border-dark-600\/30.border-gray-100.p-1.dark\:bg-dark-700\/50.bg-gray-200\/50.gap-3.items-center.flex-col.flex
+anime3rb.com###disqus_thread
+anime3rb.com##.py-8.xl\:px-6.px-4.dark\:bg-dark-790.bg-gray-100
+anime3rb.com##.gap-4.items-center.sm\:justify-between.justify-center.flex-wrap.sm\:flex-row.flex-col.flex.md\:py-4.py-8.px-4.text-center.mx-auto.container
+anime3rb.com##.md\:flex.hidden.xl\:ms-6.lg\:ms-2 > a.dark\:active\:bg-dark-600.active\:bg-gray-200.dark\:focus\:bg-dark-700.focus\:bg-gray-100.dark\:hover\:bg-dark-700.hover\:bg-gray-100.py-2.px-4.dark\:focus\:text-gray-100.dark\:hover\:text-gray-100.dark\:text-gray-200.focus\:text-gray-900.hover\:text-gray-900.text-gray-700.rounded-lg.inline-block.focus\:outline-none:nth-of-type(2)
+anime3rb.com##.dark\:bg-dark-700\/30.bg-yellow-50.justify-between.items-center.gap-2.flex.\!rounded-none.\!py-5.\!px-8.dark\:\!text-gray-150.dark\:opacity-95.dark\:active\:bg-dark-600.active\:bg-gray-200.dark\:focus\:bg-dark-700.focus\:bg-gray-100.dark\:hover\:bg-dark-700.hover\:bg-gray-100.py-2.px-4.dark\:focus\:text-gray-100.dark\:hover\:text-gray-100.dark\:text-gray-200.focus\:text-gray-900.hover\:text-gray-900.text-gray-700.rounded-lg.inline-block.focus\:outline-none
+anime3rb.com##.my-3.p-6.dark\:bg-dark-700\/30.bg-gray-100\/80.justify-center.items-center.gap-4.flex-col.flex
+anime3rb.com##.items-center.gap-4.flex.rounded-lg.shadow-sm.dark\:bg-dark-700.mt-6.p-4.bg-white.leading-relaxed
+anime3rb.com##.justify-between.items-center.gap-3.flex.py-5.xl\:px-5.px-4.dark\:bg-dark-700\/40.bg-gray-50.shadow-sm.rounded-xl
+
+! Oct 8, 2024 Best Drama
+best-drama.com##.mt-0.block-bgcolor-att.padding_50
+best-drama.com##.not-logged
+best-drama.com##.footer-top
+best-drama.com##.footer
+best-drama.com##.model-user-registered.link-like.add_favorite
+best-drama.com##section.mt-0.padding_50:nth-of-type(2)
+best-drama.com##.dt_rating_data
+best-drama.com##.text-center.mt--10.single-episode-info
+best-drama.com##.text-center.float-none.info-comviewfav
+best-drama.com##.pb-3.pt-5.block-bgcolor-att
+best-drama.com##.mb-0.style-2.gtitle
+best-drama.com##div.pb-3.pt-5:nth-of-type(2)
+best-drama.com##.text-left.col-lg-6.col-md-12
+best-drama.com##.post_options2
+best-drama.com##.pl-0.pr-0.col-lg-3.col-md-6
+
+! Oct 8, EgyDead
+egydead.center##.m-slider
+egydead.center##footer
+egydead.center##.singleTopper
+egydead.center##.singleStory
+egydead.center##.workTeam
+egydead.center##.commentsMaster
+egydead.center##.downloadMaster
+egydead.center##.pin-posts-list
+
+! Oct 8, Cee
+cee.buzz##.rating
+cee.buzz##.ng-star-inserted.arabic.add-button
+cee.buzz##.ng-star-inserted.cinemana-navy-900.below-static
+cee.buzz##.ng-star-inserted.video-card-footer__details
+cee.buzz##.ng-star-inserted.brand
+
+! Oct 8 WeCima
 wecima.movie##.ProductionsListButton
 wecima.movie##.LeftSideFlex--user
 wecima.movie###menu-item-273057
@@ -53,7 +98,7 @@ wecima.movie##.WecimaonSocialnetwork
 wecima.movie##.Download--Wecima--Single
 wecima.movie##singlerelated
 
-! Oct 7 TukTuk Cinema
+! Oct 8 TukTuk Cinema
 www.tuktukcima.com##.News--Bar
 www.tuktukcima.com##.Header--Social
 www.tuktukcima.com##.Slides--Main.owl-loaded
@@ -66,7 +111,7 @@ www.tuktukcima.com##.breadcrumbs
 www.tuktukcima.com##.right
 www.tuktukcima.com##.imdbS
 
-! Oct 7, 2024 5TV
+! Oct 8, 2024 5TV
 5tv.asia##.or-1.dv.dfxc.menu > .menu-item-107754.menu-item-object-page.menu-item-type-post_type.menu-item
 5tv.asia##.or-1.dv.dfxc.menu > .menu-item-106263.menu-item-object-page.menu-item-type-post_type.menu-item
 5tv.asia##.or-1.dv.dfxc.menu > .menu-item-129997.menu-item-object-page.menu-item-type-post_type.menu-item
@@ -93,7 +138,7 @@ www.tuktukcima.com##.imdbS
 5tv.asia##.owl-drag.owl-loaded.carousel.owl-theme.owl-carousel
 5tv.asia##.AsideContext > h3
 
-! Oct 7, 2024 5TV sub-website
+! Oct 8, 2024 5TV sub-website
 play.spotnews.buzz##.header-footer-group.has-text-align-center.entry-header
 play.spotnews.buzz##.entry-content
 play.spotnews.buzz##.section-inner.pagination-single
