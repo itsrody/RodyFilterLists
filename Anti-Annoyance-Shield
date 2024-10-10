@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 0.0.4
+! Version: 0.0.5
 ! Title: 🛡️Anti-Annoyance Shield
 ! Description: Filters for clean websites.
 ! Maintainer: Murtaza Salih
@@ -62,7 +62,7 @@ best-drama.com##.text-left.col-lg-6.col-md-12
 best-drama.com##.post_options2
 best-drama.com##.pl-0.pr-0.col-lg-3.col-md-6
 
-! Oct 8, EgyDead
+! Oct 10, EgyDead
 egydead.center##.m-slider
 egydead.center##footer
 egydead.center##.singleTopper
@@ -71,6 +71,7 @@ egydead.center##.workTeam
 egydead.center##.commentsMaster
 egydead.center##.downloadMaster
 egydead.center##.pin-posts-list
+egydead.center##.fixedInCat
 
 ! Oct 8, Cee
 cee.buzz##.rating
