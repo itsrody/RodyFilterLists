@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 0.0.5
+! Version: 0.0.6
 ! Title: 🛡️Anti-Annoyance Shield
 ! Description: Filters for clean websites.
 ! Maintainer: Murtaza Salih
@@ -95,19 +95,6 @@ wecima.movie##singlecontainerleft
 wecima.movie##.WecimaonSocialnetwork
 wecima.movie##.Download--Wecima--Single
 wecima.movie##singlerelated
-
-! Oct 8 TukTuk Cinema
-www.tuktukcima.com##.News--Bar
-www.tuktukcima.com##.Header--Social
-www.tuktukcima.com##.Slides--Main.owl-loaded
-www.tuktukcima.com##.Channels--List
-www.tuktukcima.com##.Footer--Filter
-www.tuktukcima.com##footer
-www.tuktukcima.com##.liList
-www.tuktukcima.com##[src*="https://www.tuktukcima.com/wp-content/themes/HayaH20/tuk.png"]
-www.tuktukcima.com##.breadcrumbs
-www.tuktukcima.com##.right
-www.tuktukcima.com##.imdbS
 
 ! Oct 8, 2024 5TV
 5tv.asia##.or-1.dv.dfxc.menu > .menu-item-107754.menu-item-object-page.menu-item-type-post_type.menu-item
