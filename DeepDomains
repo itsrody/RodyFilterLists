@@ -1,56 +1,51 @@
 [Adblock Plus 2.0]
-! Version: 0.0.3
+! Version: 0.0.4
 ! Title: 🅱️ DeepDomians Block
 ! Description: DeepDomains Filters for Brave or Any Adblock with Scriptlet Injection support like uBO.
 ! Maintainer: Murtaza Salih
 ! Expires: 1 hours
 ! Homepage: https://github.com/itsrody/RodyFilterLists
-||blurbreimbursetrombone.com^
-||dalysv.com^
-||media.dalysv.com^
-||enginejav182.fun^
-||fractionfridgejudiciary.com^
-||hgagecdn.com^
-||vyrmveb1ylys.hgagecdn.com^
-||insertjav182.fun^
-||islandjav182.fun^
-||jads.co^
-||poweredby.jads.co^
-||javlion.xyz^
-||javsw.me^
-||jwpltx.com^
-||prd.jwpltx.com^
-||kraoqsvumatd.com^
-||locatejav182.fun^
-||magsrv.com^
-||a.magsrv.com^
-||resort1266.fun^
-||unpkg.com^
-||ak.phaunaitsi.net^
-ak.phaunaitsi.net##+js(aopw)
-||inklinkor.com^
-||makinguseable.com^
-||amung.us^
-||atflojand.com^
-||cdn4ads.com^
-||chatango.com^
-||arvigorothan.com^
-||dalyai.com^
-||laving.cc^
-||mouttorture.com^
-||troubledcontradiction.com^
-||googlesyndication.com^
-||dpqysqehgylh.com^
-||ilsemlzpfa.com^
-||intelligenceadx.com^
-||zirdough.net^
-||doubleclick.net^
-||gekeebsirs.com^
-||swiggermahwa.com^
-||samtnauo.com^
-||diagramjawlineunhappy.com^
-||dynumiong.com^
+
+
+! IP Blocking
+||173.234.13.52^
+||104.21.75.100^
+||172.67.221.10^
+||136.243.70.253^
+||[173.234.13.17^
+||213.152.183.148^
+||136.243.70.253^
+||199.241.100.214^
+||148.113.1.153^
+||104.21.23.60^
+||104.21.63.77^
+||3.160.77.20^
+||3.160.77.108^
+||173.234.13.29^
+||136.243.70.253^
+||37.19.203.10^
+||136.243.70.253^
+||104.17.245.203^
+||2.16.238.136^
+||172.67.211.29^
+||172.67.8.141^
+||216.59.63.128^
+||208.93.230.29^
+||172.67.150.119^
+||99.83.138.213^
+||104.21.63.22^
+||172.240.127.234^
+||142.251.140.68^
+||208.95.114.100^
+||139.45.197.243^
+||172.217.17.142^
+||172.67.133.240^
+||23.109.170.99^
+||173.234.13.49^
+
+! Domains Blocking + Scriplets
 ||poweredby.jads.co/js/jads.js^script
 ||googletagmanager.com/gtag/js^script
 ||a.realsrv.com/ad-provider.js^script
-diagramjawlineunhappy.com##+js(aopw)
+ak.phaunaitsi.net##+js(aopw)
+
