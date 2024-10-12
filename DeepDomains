@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0.0.2
+! Version: 0.0.3
 ! Title: 🅱️ DeepDomians Block
-! Description: DeepDomains Filters for APB.
+! Description: DeepDomains Filters for Brave or Any Adblock with Scriptlet Injection support like uBO.
 ! Maintainer: Murtaza Salih
 ! Expires: 1 hours
 ! Homepage: https://github.com/itsrody/RodyFilterLists
@@ -27,6 +27,7 @@
 ||resort1266.fun^
 ||unpkg.com^
 ||ak.phaunaitsi.net^
+ak.phaunaitsi.net##+js(aopw)
 ||inklinkor.com^
 ||makinguseable.com^
 ||amung.us^
@@ -52,3 +53,4 @@
 ||poweredby.jads.co/js/jads.js^script
 ||googletagmanager.com/gtag/js^script
 ||a.realsrv.com/ad-provider.js^script
+diagramjawlineunhappy.com##+js(aopw)
