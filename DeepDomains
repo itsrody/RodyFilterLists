@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 0.0.1
+! Version: 0.0.2
 ! Title: 🅱️ DeepDomians Block
 ! Description: DeepDomains Filters for APB.
 ! Maintainer: Murtaza Salih
@@ -26,7 +26,6 @@
 ||a.magsrv.com^
 ||resort1266.fun^
 ||unpkg.com^
-||mc.yandex.ru^
 ||ak.phaunaitsi.net^
 ||inklinkor.com^
 ||makinguseable.com^
@@ -47,3 +46,9 @@
 ||doubleclick.net^
 ||gekeebsirs.com^
 ||swiggermahwa.com^
+||samtnauo.com^
+||diagramjawlineunhappy.com^
+||dynumiong.com^
+||poweredby.jads.co/js/jads.js^script
+||googletagmanager.com/gtag/js^script
+||a.realsrv.com/ad-provider.js^script
