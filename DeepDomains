@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 0.0.4
+! Version: 0.0.4.1
 ! Title: 🅱️ DeepDomians Block
 ! Description: DeepDomains Filters for Brave or Any Adblock with Scriptlet Injection support like uBO.
 ! Maintainer: Murtaza Salih
@@ -43,9 +43,13 @@
 ||23.109.170.99^
 ||173.234.13.49^
 
-! Domains Blocking + Scriplets
+! Domains Blocking 
 ||poweredby.jads.co/js/jads.js^script
 ||googletagmanager.com/gtag/js^script
 ||a.realsrv.com/ad-provider.js^script
+
+! Scriptlets
 ak.phaunaitsi.net##+js(aopw)
+diagramjawlineunhappy.com##+js(aopw)
+
 
