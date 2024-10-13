@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Version: 0.0.2
+! Version: 0.0.2.1
 ! Title: 🧼 DeepClean Block
 ! Description: Filters for clean websites.
 ! Maintainer: Murtaza Salih
 ! Expires: 1 hours
 ! Homepage: https://github.com/itsrody/RodyFilterLists
 
-! Oct 8, 2024 FaselHD
+! Oct 8, FaselHD
 www.faselhds.care##.dwnApp
 www.faselhds.care###lastnews
 www.faselhds.care##.accBtn
@@ -34,7 +34,7 @@ www.faselhds.care###Teamwork
 www.faselhds.care##div.ralatedMovies
 www.faselhds.care##.alert, .alert-danger
 
-! Oct 8, 2024 Anime3rb
+! Oct 8, Anime3rb
 anime3rb.com##.dark\:border-dark-600\/30.border-gray-100.p-1.dark\:bg-dark-700\/50.bg-gray-200\/50.gap-3.items-center.flex-col.flex
 anime3rb.com###disqus_thread
 anime3rb.com##.py-8.xl\:px-6.px-4.dark\:bg-dark-790.bg-gray-100
@@ -45,7 +45,7 @@ anime3rb.com##.my-3.p-6.dark\:bg-dark-700\/30.bg-gray-100\/80.justify-center.ite
 anime3rb.com##.items-center.gap-4.flex.rounded-lg.shadow-sm.dark\:bg-dark-700.mt-6.p-4.bg-white.leading-relaxed
 anime3rb.com##.justify-between.items-center.gap-3.flex.py-5.xl\:px-5.px-4.dark\:bg-dark-700\/40.bg-gray-50.shadow-sm.rounded-xl
 
-! Oct 8, 2024 Best Drama
+! Oct 8, Best Drama
 best-drama.com##.mt-0.block-bgcolor-att.padding_50
 best-drama.com##.not-logged
 best-drama.com##.footer-top
@@ -96,7 +96,7 @@ wecima.movie##.WecimaonSocialnetwork
 wecima.movie##.Download--Wecima--Single
 wecima.movie##singlerelated
 
-! Oct 8, 2024 5TV
+! Oct 8, 5TV
 5tv.asia##.or-1.dv.dfxc.menu > .menu-item-107754.menu-item-object-page.menu-item-type-post_type.menu-item
 5tv.asia##.or-1.dv.dfxc.menu > .menu-item-106263.menu-item-object-page.menu-item-type-post_type.menu-item
 5tv.asia##.or-1.dv.dfxc.menu > .menu-item-129997.menu-item-object-page.menu-item-type-post_type.menu-item
@@ -123,7 +123,7 @@ wecima.movie##singlerelated
 5tv.asia##.owl-drag.owl-loaded.carousel.owl-theme.owl-carousel
 5tv.asia##.AsideContext > h3
 
-! Oct 8, 2024 5TV sub-website
+! Oct 8, 5TV sub-website
 play.spotnews.buzz##.header-footer-group.has-text-align-center.entry-header
 play.spotnews.buzz##.entry-content
 play.spotnews.buzz##.section-inner.pagination-single
@@ -202,6 +202,19 @@ hydrahd.cc##.diz-title.row > span > div
 hydrahd.cc##.smbit.center-block.btns-under-jumbo.btn-group
 hydrahd.cc###shareButton
 
-
+! Oct 13, MDL
+mydramalist.com##li.dropdown.mdl-dropdown.nav-item:nth-of-type(3)
+mydramalist.com##.carousel-articles.light.box
+mydramalist.com##div.m-t.box:nth-of-type(2)
+mydramalist.com##div.m-t.box:nth-of-type(4)
+mydramalist.com##.col-sm-2
+mydramalist.com##div.col-sm-3:nth-of-type(2)
+mydramalist.com##div.m-y:nth-of-type(2)
+mydramalist.com##.dl-app
+mydramalist.com##.m-b.col-xs-12.col-md-8.col-lg-8 > .box
+mydramalist.com##div.box-grid-section.box-body:nth-of-type(8)
+mydramalist.com##.btn-block.white.btn-amazon.btn-sm.btn
+mydramalist.com##div.clear.box:nth-of-type(7)
+mydramalist.com##div.box:nth-of-type(5)
 
 
