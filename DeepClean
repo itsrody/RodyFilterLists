@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 0.0.3
+! Version: 0.0.4
 ! Title: 🧼 DeepClean Block
 ! Description: Filters for clean websites that support Brave browser mainly.
 ! Maintainer: Murtaza Salih
@@ -7,49 +7,51 @@
 ! Homepage: https://github.com/itsrody/RodyFilterLists
 
 ! DeepDomains List
-||blurbreimbursetrombone.com^$important
-||dalysv.com^$important
-||media.dalysv.com^$important
-||enginejav182.fun^$important
-||fractionfridgejudiciary.com^$important
-||vyrmveb1ylys.hgagecdn.com^$important
-||insertjav182.fun^$important
-||islandjav182.fun^$important
-||jads.co^$important
-||poweredby.jads.co^$important
-||javlion.xyz^$important
-||javsw.me^$important
-||jwpltx.com^$important
-||prd.jwpltx.com^$important
-||kraoqsvumatd.com^$important
-||locatejav182.fun^$important
-||magsrv.com^$important
-||a.magsrv.com^$important
-||resort1266.fun^$important
-||unpkg.com^$important
-||ak.phaunaitsi.net^$important
-ak.phaunaitsi.net##+js(aopw)$important
-||inklinkor.com^$important
-||makinguseable.com^$important
-||amung.us^$important
-||atflojand.com^$important
-||cdn4ads.com^$important
-||chatango.com^$important
-||arvigorothan.com^$important
-||dalyai.com^$important
-||laving.cc^$important
-||mouttorture.com^$important
-||troubledcontradiction.com^$important
-||googlesyndication.com^$important
-||dpqysqehgylh.com^$important
-||ilsemlzpfa.com^$important
-||intelligenceadx.com^$important
-||zirdough.net^$important
-||doubleclick.net^$important
-||gekeebsirs.com^$important
-||swiggermahwa.com^$important
-||samtnauo.com^$important
-||dynumiong.com^$important
+||blurbreimbursetrombone.com^
+||dalysv.com^
+||media.dalysv.com^
+||enginejav182.fun^
+||fractionfridgejudiciary.com^
+||vyrmveb1ylys.hgagecdn.com^
+||insertjav182.fun^
+||islandjav182.fun^
+||jads.co^
+||poweredby.jads.co^
+||javlion.xyz^
+||javsw.me^
+||jwpltx.com^
+||prd.jwpltx.com^
+||kraoqsvumatd.com^
+||locatejav182.fun^
+||magsrv.com^
+||a.magsrv.com^
+||resort1266.fun^
+||unpkg.com^
+||ak.phaunaitsi.net^
+ak.phaunaitsi.net##+js(aopw)
+||inklinkor.com^
+||makinguseable.com^
+||amung.us^
+||atflojand.com^
+||cdn4ads.com^
+||chatango.com^
+||arvigorothan.com^
+||dalyai.com^
+||laving.cc^
+||mouttorture.com^
+||troubledcontradiction.com^
+||googlesyndication.com^
+||dpqysqehgylh.com^
+||ilsemlzpfa.com^
+||intelligenceadx.com^
+||zirdough.net^
+||doubleclick.net^
+||gekeebsirs.com^
+||swiggermahwa.com^
+||samtnauo.com^
+||dynumiong.com^
+||csp.withgoogle.com^
+||fujtaltapoz.com^
 
 ! Oct 8, FaselHD
 www.faselhds.care##.dwnApp
