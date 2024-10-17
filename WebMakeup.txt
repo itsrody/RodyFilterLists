@@ -1,0 +1,48 @@
+[uBlock Origin]
+! Version: 0.0.2
+! Title: 💄 Web Makeup
+! Description: Filters for clean websites that support uBO mainly.
+! Maintainer: Murtaza Salih
+! Expires: 1 hours
+! Homepage: https://github.com/itsrody/RodyFilterLists
+
+! Oct 17, 2024 https://www.faselhds.care
+www.faselhds.care###lastnews,.social,.social-block,.accBtn,.promoLink,.dwnApp,.promoTab,#pr,#footer,#scroll-to-top,.bimdb,.bviews,.mb-1.slideMeta,.mb-2.slideCats,.singleBtns,.postElse,.downloadLinks,.Teamwork.AsideContext,.ralatedMovies
+www.faselhds.care##[href="/oscars-winners"],.pImdb,.pViews,.seasonMeta,.slider,span:nth-of-type(3),span:nth-of-type(5),div.col-sm-6.col-md-6.col-lg-6.col-xl-6:nth-of-type(6) > span
+
+! Oct 16, 2024 https://cee.buzz
+cee.buzz##.download-app
+
+! Oct 17, 2024 https://wecima.movie
+wecima.movie##.LeftUI,.Slider--Grid,.LeftSideFlex,.ProductionsListButton,#menu-item-273057,#menu-item-273056,.PostItemStats,.GotoTop,footer,singlecontainerleft,.Terms--Content--Single-begin > li:nth-of-type(5),.-movie-info-share,.WecimaonSocialnetwork,.Download--Wecima--Single,singlesection:nth-of-type(3),singlerelated
+
+! Oct 17, 2024 https://www.tuktukcima.com
+www.tuktukcima.com##.News--Bar,.Header--Social,.Slider--Outer,.Channels--Tv,footer,.Footer--Filter,.imdbRating,.imdbS,.WatcHTrailer.trl,.downloadBTN
+
+! Oct 17, 2024 https://5tv.asia
+5tv.asia###menu-item-129997,#menu-item-106263,#menu-item-28656,li.cl0c.cl2:nth-of-type(1),#widget_list_movies_series-6,#widget_list_movies_series-4,#widget_list_movies_series-7,#widget_list_movies_series-11,#widget_list_movies_series-12,.tac.ft,.tac.logo,#fav-tv,.alg-cr.jst-sb.dfxa,.description > p:nth-of-type(1),.widget-title.comments-title,.owl-stage,.owl-drag.owl-loaded.carousel.owl-theme.owl-carousel,.jst-sb.alg-cr.rw,.cat-t.aa-tbs > li:nth-of-type(4)
+
+! Oct 17, 2024 https://play.spotnews.buzz
+play.spotnews.buzz##.sticky-bottom-close,.header-footer-group.has-text-align-center.entry-header,.entry-content,.section-inner.pagination-single,.comment-respond,#site-footer,server--title
+
+! Oct 17, 2024 https://hdtodayz.to
+hdtodayz.to##[href="/android-movies-apk"],.btn-login.btn-on-header.btn-sm.btn,section.section-id-02.block_area_home.block_area:nth-of-type(4),#footer,.breadcrumb,.mb-3.alert,.watching_player-control,.sharethis-inline-share-buttons,.text-center.server-notice,.dp-i-stats,.block-rating,.mb-3.detail-tags,#film_comments,.file_realted-list.film_related,.float-right
+
+! Oct 17, 2024 https://anime3rb.com
+anime3rb.com##.md\:flex.hidden.xl\:ms-6.lg\:ms-2 > a.dark\:active\:bg-dark-600.active\:bg-gray-200.dark\:focus\:bg-dark-700.focus\:bg-gray-100.dark\:hover\:bg-dark-700.hover\:bg-gray-100.py-2.px-4.dark\:focus\:text-gray-100.dark\:hover\:text-gray-100.dark\:text-gray-200.focus\:text-gray-900.hover\:text-gray-900.text-gray-700.rounded-lg.inline-block.focus\:outline-none:nth-of-type(2),.dark\:bg-dark-700\/30.bg-yellow-50.justify-between.items-center.gap-2.flex.\!rounded-none.\!py-5.\!px-8.dark\:\!text-gray-150.dark\:opacity-95.dark\:active\:bg-dark-600.active\:bg-gray-200.dark\:focus\:bg-dark-700.focus\:bg-gray-100.dark\:hover\:bg-dark-700.hover\:bg-gray-100.py-2.px-4.dark\:focus\:text-gray-100.dark\:hover\:text-gray-100.dark\:text-gray-200.focus\:text-gray-900.hover\:text-gray-900.text-gray-700.rounded-lg.inline-block.focus\:outline-none,.my-3.p-6.dark\:bg-dark-700\/30.bg-gray-100\/80.justify-center.items-center.gap-4.flex-col.flex,.gap-4.items-center.sm\:justify-between.justify-center.flex-wrap.sm\:flex-row.flex-col.flex.md\:py-4.py-8.px-4.text-center.mx-auto.container,.p-4.dark\:bg-primary-600\/50.bg-primary-100.rounded-lg.mx-auto.w-full.flex-grow.gap-4.justify-center.items-center.flex,.py-8.xl\:px-6.px-4.dark\:bg-dark-790.bg-gray-100,.gap-3.items-center.flex-grow.flex.rounded-none.flex-shrink.\!p-0.w-fit,.gap-2.font-light.items-center.flex-shrink-0.flex,span.gap-1.justify-center.items-center.flex.rounded.py-1.px-1\.5.dark\:text-gray-100.dark\:bg-dark-600.bg-gray-100.flex-grow:nth-of-type(2),#disqus_thread
+
+! Oct 17, 2024 https://egydead.center
+egydead.center##.owl-stage,.pin-posts-list,.fixedInCat,footer,.singleTopper,.singleStory,.workTeam,.trailerBtn,.commentsMaster,.related-posts,.downloadMaster,#menu-item-206389,.fa-play.fa,.fa-play-circle.fa,.fa-tv.fa,.fa-clock.fa,.TagsList
+
+! Oct 17, 2024 https://asd.quest
+asd.quest##.DarkMode,.LoggedINUser,.SocialMediaHero,.HeroSecion,.Rate,footer,.show.gtop,.topBarSingle,.WorkTeam,.infoPosterTwo,.relatedPosts,.downloadBTn,.menu-item-366790,.menu-item-555582,.menu-item-586189,div.active.owl-item:nth-of-type(1)
+migration.cam##.menu-item-366790,.menu-item-555582,.menu-item-586189
+
+! Oct 17, 2024 https://arablionztv.com
+arablionztv.com##.First--Style.Section--Titles,.twitter,.fa__play,.facebook,[href="https://arablionztv.com/download-series/"],[href="https://arablionztv.com/category/other-shows/wrestling/"],.telegram-anchor,.GotoTop,div.Posts--Single--Box:nth-of-type(14),div.Posts--Single--Box:nth-of-type(13),footer,[href="https://arablionztv.com/%d8%b3%d9%8a%d8%b1%d9%81%d8%b1-%d8%b9%d8%b1%d8%a8-%d9%84%d9%8a%d9%88%d9%86%d8%b2-lionz-tv/"],.Content--POST,singular--tabas,.Singular--Tax--category,.active__link.More--SinularData,.active__link.DownloadBtn,servers--selected > p,.PostsScrollLoader
+
+! Oct 17, 2024 https://best-drama.com
+best-drama.com##.mt-0.block-bgcolor-att.padding_50,.user,.footer-top,.footer,section.mt-0.padding_50:nth-of-type(2),.model-user-registered.link-like.add_favorite,.dt_rating_data,.clearfix, .text-center.mt--10.single-episode-info,.text-center.float-none.info-comviewfav,.pb-3.pt-5.block-bgcolor-att,div.pb-3.pt-5:nth-of-type(2),.post_options2,.text-left.col-lg-6.col-md-12,h4.mb-0,.pfbom_tags
+
+! Oct 13, mydramalist.com
+mydramalist.com##li.dropdown.mdl-dropdown.nav-item:nth-of-type(3),.carousel-articles.light.box,div.m-t.box:nth-of-type(2),div.m-t.box:nth-of-type(4),.col-sm-2,div.col-sm-3:nth-of-type(2),div.m-y:nth-of-type(2),.dl-app,.m-b.col-xs-12.col-md-8.col-lg-8 > .box,div.box-grid-section.box-body:nth-of-type(8),.btn-block.white.btn-amazon.btn-sm.btn,div.clear.box:nth-of-type(7),div.box:nth-of-type(5)
