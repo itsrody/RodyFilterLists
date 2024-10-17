@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Version: 0.0.2
+! Version: 0.0.3
 ! Title: 💄 Web Makeup
 ! Description: Filters for clean websites that support uBO mainly.
 ! Maintainer: Murtaza Salih
@@ -7,8 +7,7 @@
 ! Homepage: https://github.com/itsrody/RodyFilterLists
 
 ! Oct 17, 2024 https://www.faselhds.care
-www.faselhds.care###lastnews,.social,.social-block,.accBtn,.promoLink,.dwnApp,.promoTab,#pr,#footer,#scroll-to-top,.bimdb,.bviews,.mb-1.slideMeta,.mb-2.slideCats,.singleBtns,.postElse,.downloadLinks,.Teamwork.AsideContext,.ralatedMovies
-www.faselhds.care##[href="/oscars-winners"],.pImdb,.pViews,.seasonMeta,.slider,span:nth-of-type(3),span:nth-of-type(5),div.col-sm-6.col-md-6.col-lg-6.col-xl-6:nth-of-type(6) > span
+www.faselhds.care###lastnews,.social,.social-block,.accBtn,.promoLink,.dwnApp,.promoTab,#pr,#footer,#scroll-to-top,.bimdb,.bviews,.mb-1.slideMeta,.mb-2.slideCats,.singleBtns,.postElse,.downloadLinks,.Teamwork.AsideContext,.ralatedMovies,[href="/oscars-winners"],.pImdb,.pViews,.seasonMeta,.slider,span:nth-of-type(3),span:nth-of-type(5),div.col-sm-6.col-md-6.col-lg-6.col-xl-6:nth-of-type(6) > span,div.col-sm-6.col-md-6.col-lg-6.col-xl-6:nth-of-type(6),.singleStar
 
 ! Oct 16, 2024 https://cee.buzz
 cee.buzz##.download-app
