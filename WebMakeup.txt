@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Version: 0.0.3
+! Version: 0.0.3.1
 ! Title: 💄 Web Makeup
 ! Description: Filters for clean websites that support uBO mainly.
 ! Maintainer: Murtaza Salih
@@ -19,7 +19,7 @@ wecima.movie##.LeftUI,.Slider--Grid,.LeftSideFlex,.ProductionsListButton,#menu-i
 www.tuktukcima.com##.News--Bar,.Header--Social,.Slider--Outer,.Channels--Tv,footer,.Footer--Filter,.imdbRating,.imdbS,.WatcHTrailer.trl,.downloadBTN
 
 ! Oct 17, 2024 https://5tv.asia
-5tv.asia###menu-item-129997,#menu-item-106263,#menu-item-28656,li.cl0c.cl2:nth-of-type(1),#widget_list_movies_series-6,#widget_list_movies_series-4,#widget_list_movies_series-7,#widget_list_movies_series-11,#widget_list_movies_series-12,.tac.ft,.tac.logo,#fav-tv,.alg-cr.jst-sb.dfxa,.description > p:nth-of-type(1),.widget-title.comments-title,.owl-stage,.owl-drag.owl-loaded.carousel.owl-theme.owl-carousel,.jst-sb.alg-cr.rw,.cat-t.aa-tbs > li:nth-of-type(4)
+5tv.asia###menu-item-129997,#menu-item-106263,#menu-item-28656,li.cl0c.cl2:nth-of-type(1),#widget_list_movies_series-6,#widget_list_movies_series-4,#widget_list_movies_series-7,#widget_list_movies_series-11,#widget_list_movies_series-12,.tac.ft,.tac.logo,#fav-tv,.alg-cr.jst-sb.dfxa,.description > p:nth-of-type(1),.widget-title.comments-title,.owl-stage,.owl-drag.owl-loaded.carousel.owl-theme.owl-carousel,.cat-t.aa-tbs > li:nth-of-type(4)
 
 ! Oct 17, 2024 https://play.spotnews.buzz
 play.spotnews.buzz##.sticky-bottom-close,.header-footer-group.has-text-align-center.entry-header,.entry-content,.section-inner.pagination-single,.comment-respond,#site-footer,server--title
