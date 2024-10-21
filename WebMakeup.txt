@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Version: 0.0.3.3
+! Version: 0.0.4
 ! Title: 💄 Web Makeup
 ! Description: Filters for clean websites that support uBO mainly.
 ! Maintainer: Murtaza Salih
@@ -42,6 +42,9 @@ arablionztv.com##.First--Style.Section--Titles,.twitter,.fa__play,.facebook,[hre
 
 ! Oct 17, 2024 https://best-drama.com
 best-drama.com##.mt-0.block-bgcolor-att.padding_50,.user,.footer-top,.footer,section.mt-0.padding_50:nth-of-type(2),.model-user-registered.link-like.add_favorite,.dt_rating_data,.clearfix, .text-center.mt--10.single-episode-info,.text-center.float-none.info-comviewfav,.pb-3.pt-5.block-bgcolor-att,div.pb-3.pt-5:nth-of-type(2),.post_options2,.text-left.col-lg-6.col-md-12,h4.mb-0,.pfbom_tags
+
+! Oct 21, 2024 https://hydrahd.cc
+hydrahd.cc##[href="/login"],[href="/livesports"],[href="/sports247"],[href="/movies/popular/"],[href="/tv-shows/popular"],[href="/register"],footer,div.info.alert:nth-of-type(1),div.info.alert:nth-of-type(3),#shareButton,.col-lg-12.center-block.btns-under-jumbo.btn-group > div > [href="javascript:void(0);"],.watch-now-btn,.diz-title.row > span > div,.smbit.center-block.btns-under-jumbo.btn-group
 
 ! Oct 13, mydramalist.com
 mydramalist.com##li.dropdown.mdl-dropdown.nav-item:nth-of-type(3),.carousel-articles.light.box,div.m-t.box:nth-of-type(2),div.m-t.box:nth-of-type(4),.col-sm-2,div.col-sm-3:nth-of-type(2),div.m-y:nth-of-type(2),.dl-app,.m-b.col-xs-12.col-md-8.col-lg-8 > .box,div.box-grid-section.box-body:nth-of-type(8),.btn-block.white.btn-amazon.btn-sm.btn,div.clear.box:nth-of-type(7),div.box:nth-of-type(5)
