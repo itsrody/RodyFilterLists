@@ -1,50 +1,67 @@
 [uBlock Origin]
-! Version: 0.0.4.1
+! Version: 0.0.5
 ! Title: 💄 Web Makeup
 ! Description: Filters for clean websites that support uBO mainly.
 ! Maintainer: Murtaza Salih
 ! Expires: 1 hours
 ! Homepage: https://github.com/itsrody/RodyFilterLists
 
-! Oct 17, 2024 https://www.faselhds.care
-www.faselhds.care###lastnews,.social,.social-block,.accBtn,.promoLink,.dwnApp,.promoTab,#pr,#footer,#scroll-to-top,.bimdb,.bviews,.mb-1.slideMeta,.mb-2.slideCats,.singleBtns,.postElse,.downloadLinks,.Teamwork.AsideContext,.ralatedMovies,[href="/oscars-winners"],.pImdb,.pViews,.seasonMeta,.slider,span:nth-of-type(3),span:nth-of-type(5),div.col-sm-6.col-md-6.col-lg-6.col-xl-6:nth-of-type(6) > span,div.col-sm-6.col-md-6.col-lg-6.col-xl-6:nth-of-type(6),.singleStar
+! Oct 22, 2024 https://www.faselhds.care
+www.faselhds.care##.dwnApp,.promoLink,.promoTab,.accBtn,.social,[href="/oscars-winners"]
+www.faselhds.care##.slider,#lastnews,#pr,#footer,#scroll-to-top
+www.faselhds.care##.mb-1.slideMeta,.mb-2.slideCats,.bviews,.bimdb,.pViews,.pImdb
+www.faselhds.care##.social-block,.seasonMeta,.singleBtns,.singleStar,.downloadLinks,.postElse,.Teamwork,.ralatedMovies
 
 ! Oct 16, 2024 https://cee.buzz
 cee.buzz##.download-app
 
-! Oct 17, 2024 https://wecima.movie
-wecima.movie##.LeftUI,.Slider--Grid,.LeftSideFlex,.ProductionsListButton,#menu-item-273057,#menu-item-273056,.PostItemStats,.GotoTop,footer,singlecontainerleft,.Terms--Content--Single-begin > li:nth-of-type(5),.-movie-info-share,.WecimaonSocialnetwork,.Download--Wecima--Single,singlesection:nth-of-type(3),singlerelated
+! Oct 22, 2024 https://wecima.movie
+wecima.movie###menu-item-273056,#menu-item-273057,.ProductionsListButton,.LeftSideFlex,footer,.GotoTop
+wecima.movie##.Slider--Grid,.LeftUI,singlecontainerleft,.PostItemStats
+wecima.movie##.BreadcrumbsFilters,.-movie-info-share,.WecimaonSocialnetwork,.Download--Wecima--Single,singlerelated
 
-! Oct 17, 2024 https://www.tuktukcima.com
-www.tuktukcima.com##.News--Bar,.Header--Social,.Slider--Outer,.Channels--Tv,footer,.Footer--Filter,.imdbRating,.imdbS,.WatcHTrailer.trl,.downloadBTN
+! Oct 22, 2024 https://www.tuktukcima.com
+www.tuktukcima.com##.Header--Social,.News--Bar,.Slider--Outer,.Channels--Tv,.imdbRating,.Footer--Filter,footer
+www.tuktukcima.com##.breadcrumbs,.WatcHTrailer.trl,.downloadBTN,.watch--servers--list > span,.imdbS
 
-! Oct 17, 2024 https://5tv.asia
-5tv.asia###menu-item-129997,#menu-item-106263,#menu-item-28656,li.cl0c.cl2:nth-of-type(1),#widget_list_movies_series-6,#widget_list_movies_series-4,#widget_list_movies_series-7,#widget_list_movies_series-11,#widget_list_movies_series-12,.tac.ft,.tac.logo,#fav-tv,.alg-cr.jst-sb.dfxa,.description > p:nth-of-type(1),.widget-title.comments-title,.owl-stage,.owl-drag.owl-loaded.carousel.owl-theme.owl-carousel,.cat-t.aa-tbs > li:nth-of-type(4),section.episodes.section:nth-of-type(2),.entry-meta
+! Oct 22, 2024 https://5tv.asia
+5tv.asia##.menu-item-129997,#menu-item-106263,#menu-item-28656,.btn-login.btn,.tac.ft
+5tv.asia###widget_list_movies_series-6,#widget_list_movies_series-4,#widget_list_movies_series-7,#widget_list_movies_series-11,#widget_list_movies_series-12,#widget_list_movies_series-10
+5tv.asia###fav-tv,.description > p:nth-of-type(1),.AsideContext > h3,.alg-cr.jst-sb.dfxa,.widget.comments-area,.owl-stage,section.episodes.section:nth-of-type(2)
 
-! Oct 17, 2024 https://play.spotnews.buzz
-play.spotnews.buzz##.sticky-bottom-close,.header-footer-group.has-text-align-center.entry-header,.entry-content,.section-inner.pagination-single,.comment-respond,#site-footer,server--title
+! Oct 22, 2024 https://play.spotnews.buzz
+play.spotnews.buzz##server--title,.sticky-bottom-close,.header-footer-group.has-text-align-center.entry-header,.entry-content,.section-inner.pagination-single,.comment-respond,#site-footer,.thin.post-inner,.adsbygoogle
 
-! Oct 17, 2024 https://hdtodayz.to
-hdtodayz.to##[href="/android-movies-apk"],.btn-login.btn-on-header.btn-sm.btn,section.section-id-02.block_area_home.block_area:nth-of-type(4),#footer,.breadcrumb,.mb-3.alert,.watching_player-control,.sharethis-inline-share-buttons,.text-center.server-notice,.dp-i-stats,.block-rating,.mb-3.detail-tags,#film_comments,.file_realted-list.film_related,.float-right
+! Oct 22, 2024 https://best-drama.com
+best-drama.com##.not-logged,.mt-0.block-bgcolor-att.padding_50,section.mt-0.padding_50:nth-of-type(2),.footer-top,.footer,.model-user-registered.link-like.add_favorite
+best-drama.com##.clearfix,.mb-0.style-2.gtitle,.text-center.mt--10.single-episode-info,.text-center.float-none.info-comviewfav,.pb-3.pt-5.block-bgcolor-att
+best-drama.com##.text-left.col-lg-6.col-md-12,.post_options2,div.pb-3.pt-5:nth-of-type(2),.mb-5.mt-0.row
 
-! Oct 17, 2024 https://anime3rb.com
-anime3rb.com##.md\:flex.hidden.xl\:ms-6.lg\:ms-2 > a.dark\:active\:bg-dark-600.active\:bg-gray-200.dark\:focus\:bg-dark-700.focus\:bg-gray-100.dark\:hover\:bg-dark-700.hover\:bg-gray-100.py-2.px-4.dark\:focus\:text-gray-100.dark\:hover\:text-gray-100.dark\:text-gray-200.focus\:text-gray-900.hover\:text-gray-900.text-gray-700.rounded-lg.inline-block.focus\:outline-none:nth-of-type(2),.dark\:bg-dark-700\/30.bg-yellow-50.justify-between.items-center.gap-2.flex.\!rounded-none.\!py-5.\!px-8.dark\:\!text-gray-150.dark\:opacity-95.dark\:active\:bg-dark-600.active\:bg-gray-200.dark\:focus\:bg-dark-700.focus\:bg-gray-100.dark\:hover\:bg-dark-700.hover\:bg-gray-100.py-2.px-4.dark\:focus\:text-gray-100.dark\:hover\:text-gray-100.dark\:text-gray-200.focus\:text-gray-900.hover\:text-gray-900.text-gray-700.rounded-lg.inline-block.focus\:outline-none,.my-3.p-6.dark\:bg-dark-700\/30.bg-gray-100\/80.justify-center.items-center.gap-4.flex-col.flex,.gap-4.items-center.sm\:justify-between.justify-center.flex-wrap.sm\:flex-row.flex-col.flex.md\:py-4.py-8.px-4.text-center.mx-auto.container,.p-4.dark\:bg-primary-600\/50.bg-primary-100.rounded-lg.mx-auto.w-full.flex-grow.gap-4.justify-center.items-center.flex,.py-8.xl\:px-6.px-4.dark\:bg-dark-790.bg-gray-100,.gap-3.items-center.flex-grow.flex.rounded-none.flex-shrink.\!p-0.w-fit,.gap-2.font-light.items-center.flex-shrink-0.flex,span.gap-1.justify-center.items-center.flex.rounded.py-1.px-1\.5.dark\:text-gray-100.dark\:bg-dark-600.bg-gray-100.flex-grow:nth-of-type(2),#disqus_thread,.p-4.dark\:bg-primary-600\/50.bg-primary-100.mx-auto.w-full.gap-4.justify-center.items-center.max-\[425px\]\:flex-wrap.flex,.justify-between.items-center.gap-3.flex.py-5.xl\:px-5.px-4.dark\:bg-dark-700\/40.bg-gray-50.shadow-sm.rounded-xl,.dark\:border-dark-600\/50.border-gray-100.p-4.dark\:bg-dark-700\/50.bg-gray-200\/50.text-center.gap-3.items-center.flex-col.flex,.justify-center.items-center.py-4.gap-3.flex,.dark\:border-dark-600\/30.border-gray-100.p-1.dark\:bg-dark-700\/50.bg-gray-200\/50.gap-3.items-center.flex-col.flex,.-bottom-\[1px\].sticky,.justify-center.items-center.py-4.gap-3.flex
+! Oct 22, 2024 https://cimaa4u.com
+cimaa4u.com###menu-item-799877,#menu-item-799878,#menu-item-38222,#menu-item-803687,.PinSlider,.Slider,.MpaaSwitch,.BoxTitleInfo,.FooterLinks,.DesignedBy,copyrights
+cimaa4u.com##.ImportantButtons,.RelatedsOnSingle,.WatchBar,.DownloadServers,.TrailerColorButton
 
-! Oct 17, 2024 https://egydead.center
-egydead.center##.owl-stage,.pin-posts-list,.fixedInCat,footer,.singleTopper,.singleStory,.workTeam,.trailerBtn,.commentsMaster,.related-posts,.downloadMaster,#menu-item-206389,.fa-play.fa,.fa-play-circle.fa,.fa-tv.fa,.fa-clock.fa,.TagsList
+! Oct 22, 2024 https://egydead.center
+egydead.center##.owl-stage,.pin-posts-list,footer
+egydead.center##.singleTopper,.trailerBtn,.commentsMaster,.related-posts,.archp.beadcrumbs,.downloadMaster,.TagsList
 
-! Oct 17, 2024 https://asd.quest
-asd.quest##.DarkMode,.LoggedINUser,.SocialMediaHero,.HeroSecion,.Rate,footer,.show.gtop,.topBarSingle,.WorkTeam,.infoPosterTwo,.relatedPosts,.downloadBTn,.menu-item-366790,.menu-item-555582,.menu-item-586189,div.active.owl-item:nth-of-type(1)
-migration.cam##.menu-item-366790,.menu-item-555582,.menu-item-586189
+! Oct 22, 2024 https://hydrahd.cc
+hydrahd.cc##footer,[href="/login"],[href="/register"],[href="/tv-shows/popular"],[href="/movies/popular/"],[href="/livesports"],[href="/sports247"]
+hydrahd.cc##div.info.alert:nth-of-type(1),div.info.alert:nth-of-type(3),#shareButton,.col-lg-12.center-block.btns-under-jumbo.btn-group > div > [href="javascript:void(0);"],.watch-now-btn,.diz-title.row > span:nth-of-type(1) > div,.smbit.center-block.btns-under-jumbo.btn-group
 
-! Oct 17, 2024 https://arablionztv.com
-arablionztv.com##.First--Style.Section--Titles,.twitter,.fa__play,.facebook,[href="https://arablionztv.com/download-series/"],[href="https://arablionztv.com/category/other-shows/wrestling/"],.telegram-anchor,.GotoTop,div.Posts--Single--Box:nth-of-type(14),div.Posts--Single--Box:nth-of-type(13),footer,[href="https://arablionztv.com/%d8%b3%d9%8a%d8%b1%d9%81%d8%b1-%d8%b9%d8%b1%d8%a8-%d9%84%d9%8a%d9%88%d9%86%d8%b2-lionz-tv/"],.Content--POST,singular--tabas,.Singular--Tax--category,.active__link.More--SinularData,.active__link.DownloadBtn,servers--selected > p,.PostsScrollLoader
-
-! Oct 17, 2024 https://best-drama.com
-best-drama.com##.mt-0.block-bgcolor-att.padding_50,.user,.footer-top,.footer,section.mt-0.padding_50:nth-of-type(2),.model-user-registered.link-like.add_favorite,.dt_rating_data,.clearfix, .text-center.mt--10.single-episode-info,.text-center.float-none.info-comviewfav,.pb-3.pt-5.block-bgcolor-att,div.pb-3.pt-5:nth-of-type(2),.post_options2,.text-left.col-lg-6.col-md-12,h4.mb-0,.pfbom_tags
-
-! Oct 21, 2024 https://hydrahd.cc
-hydrahd.cc##[href="/login"],[href="/livesports"],[href="/sports247"],[href="/movies/popular/"],[href="/tv-shows/popular"],[href="/register"],footer,div.info.alert:nth-of-type(1),div.info.alert:nth-of-type(3),#shareButton,.col-lg-12.center-block.btns-under-jumbo.btn-group > div > [href="javascript:void(0);"],.watch-now-btn,.diz-title.row > span > div,.smbit.center-block.btns-under-jumbo.btn-group
-
-! Oct 13, mydramalist.com
-mydramalist.com##li.dropdown.mdl-dropdown.nav-item:nth-of-type(3),.carousel-articles.light.box,div.m-t.box:nth-of-type(2),div.m-t.box:nth-of-type(4),.col-sm-2,div.col-sm-3:nth-of-type(2),div.m-y:nth-of-type(2),.dl-app,.m-b.col-xs-12.col-md-8.col-lg-8 > .box,div.box-grid-section.box-body:nth-of-type(8),.btn-block.white.btn-amazon.btn-sm.btn,div.clear.box:nth-of-type(7),div.box:nth-of-type(5)
+! Oct 23, 2024 https://shoffree.net
+shoffree.net##.col-md-3.d-md-block.d-none.t-blackout-bg-secondary.px-3.p-0
+shoffree.net##.imdbRate,.imdbRating
+shoffree.net##.container-fluid.rtl-secondaryFont.w-100.py-4.m-0.p-0.themed-container
+shoffree.net##a.naked:nth-of-type(4) > .t-blackout-text-alternative-highlight.font-md.m-0.p-0 > .align-items-center.d-lg-flex.d-block.p-0.m-0
+shoffree.net##a.naked:nth-of-type(6) > .t-blackout-text-alternative-highlight.font-md.m-0.p-0 > .align-items-center.d-lg-flex.d-block.p-0.m-0
+shoffree.net##.d-flex.rtl-pull-to-leading.px-3.my-2
+shoffree.net##.row.t-blackout-bt-primary.listOfPosts-wrapper.pb-3.pt-4.px-4.p-0.m-0
+shoffree.net##.row.scrollable-x.playView-cards-row-spacing.pt-0.m-0
+shoffree.net##div.w-100 > .row.font-lg.t-blackout-text-alternative-highlight.rtl-primaryFont.pb-4.px-4.w-100.p-0.m-0
+shoffree.net##div.pt-0.px-0 > .row.font-lg.t-blackout-text-alternative-highlight.rtl-primaryFont.pb-4.px-4.w-100.p-0.m-0
+shoffree.net##.px-2 > .rounded-sm.font-sm.rtl-secondaryFont.t-blackout-bg-secondary-highlight.p-2.m-0.h-auto.w-100
+shoffree.net##.singleRating.font-lg.font-bold > .fa-star.fa
+shoffree.net##.singleRating.font-lg.font-bold > b
+shoffree.net##.row.font-lg.t-blackout-text-alternative-highlight.rtl-primaryFont.pb-4.px-2.w-100.p-0.m-0
+shoffree.net##div.container:nth-of-type(4)
