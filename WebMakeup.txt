@@ -1,10 +1,13 @@
 [uBlock Origin]
-! Version: 0.0.5
+! Version: 0.0.5.1
 ! Title: 💄 Web Makeup
 ! Description: Filters for clean websites that support uBO mainly.
 ! Maintainer: Murtaza Salih
 ! Expires: 1 hours
 ! Homepage: https://github.com/itsrody/RodyFilterLists
+
+! Domains
+||dizbirmwavic.com^
 
 ! Oct 22, 2024 https://www.faselhds.care
 www.faselhds.care##.dwnApp,.promoLink,.promoTab,.accBtn,.social,[href="/oscars-winners"]
