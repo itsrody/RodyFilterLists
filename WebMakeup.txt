@@ -1,5 +1,5 @@
-[Adblock Plus 3.4]
-! Version: 0.0.5.4
+[Adblock Plus 2.0]
+! Version: 0.0.5.5
 ! Title: 💄 Web Makeup
 ! Description: Filters for clean websites that support uBO mainly.
 ! Maintainer: Murtaza Salih
