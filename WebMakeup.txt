@@ -1,5 +1,5 @@
-[uBlock Origin]
-! Version: 0.0.5.3
+[Adblock Plus 3.4]
+! Version: 0.0.5.4
 ! Title: 💄 Web Makeup
 ! Description: Filters for clean websites that support uBO mainly.
 ! Maintainer: Murtaza Salih
@@ -12,9 +12,9 @@
 ||ak.phaunaitsi.net^
 ||xapi.juicyads.com^
 ||diagramjawlineunhappy.com^
-||oocmangamsaih.net^$popup,important
+||oocmangamsaih.net^$important
 ||oagnolti.net^
-||fairauthasti.xyz^$popup,important
+||fairauthasti.xyz^$important
 
 ! Nov 6, 2024 https://www.faselhds.care
 www.faselhds.care##.dwnApp,.promoLink,.promoTab,.accBtn,.social,[href="/oscars-winners"]
