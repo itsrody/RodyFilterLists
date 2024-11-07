@@ -1,20 +1,9 @@
-[Adblock Plus 2.0]
-! Version: 0.0.5.5
 ! Title: 💄 Web Makeup
+! Version: 0.0.6
 ! Description: Filters for clean websites that support uBO mainly.
 ! Maintainer: Murtaza Salih
 ! Expires: 1 hours
 ! Homepage: https://github.com/itsrody/RodyFilterLists
-
-! Domains
-||dizbirmwavic.com^
-||fractionfridgejudiciary.com^
-||ak.phaunaitsi.net^
-||xapi.juicyads.com^
-||diagramjawlineunhappy.com^
-||oocmangamsaih.net^$important
-||oagnolti.net^
-||fairauthasti.xyz^$important
 
 ! Nov 6, 2024 https://www.faselhds.care
 www.faselhds.care##.dwnApp,.promoLink,.promoTab,.accBtn,.social,[href="/oscars-winners"]
