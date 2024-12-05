@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: 💄 Web Makeup
-! Version: 0.0.6.1
+! Version: 0.0.6.2
 ! Description: Filters for clean websites that support uBO mainly.
 ! Maintainer: Murtaza Salih
 ! Expires: 1 hours
@@ -65,3 +65,9 @@ shoffree.net##.singleRating.font-lg.font-bold > .fa-star.fa
 shoffree.net##.singleRating.font-lg.font-bold > b
 shoffree.net##.row.font-lg.t-blackout-text-alternative-highlight.rtl-primaryFont.pb-4.px-2.w-100.p-0.m-0
 shoffree.net##div.container:nth-of-type(4)
+
+! Dec 5, 2024 https://asiatv.one
+asiatv.one##footer,div.sec-main:nth-of-type(4)
+
+! Dec 5, 2024 https://a.asiawiki.co
+a.asiawiki.co##.clearfix.header-inner,.widget,breadcrumbs,.DownloadTitle,.postThumb,.description,.mt10.secContent
