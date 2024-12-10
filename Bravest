@@ -1,0 +1,59 @@
+[Adblock Plus 2.0]
+! Title: 🦁 Bravest List
+! Version: 1.0
+! Description: Filters for clean websites, tailored for Brave Shields compatibility.
+! Maintainer: Murtaza Salih
+! Expires: 3 minutes
+! Homepage: https://github.com/itsrody/RodyFilterLists
+
+! Dec 10, 2024 - Domain-level block for othocgkugdu.com
+||othocgkugdu.com^
+
+! Dec 10, 2024 https://www.faselhds.care
+www.faselhds.care##.dwnApp,.promoLink,.promoTab,.accBtn,.social
+www.faselhds.care##.slider,#lastnews,#pr,#footer,#scroll-to-top,.alert-danger
+www.faselhds.care##.mb-1.slideMeta,.mb-2.slideCats,.bviews,.bimdb,.pViews,.pImdb
+www.faselhds.care##.social-block,.seasonMeta,.singleBtns,.singleStar,.downloadLinks,.postElse,.ralatedMovies
+
+! Dec 10, 2024 https://cee.buzz
+cee.buzz##.download-app
+
+! Dec 10, 2024 https://wecima.movie
+wecima.movie##.ProductionsListButton,.LeftSideFlex,footer,.GotoTop
+wecima.movie##.Slider--Grid,.LeftUI,singlecontainerleft,.PostItemStats
+wecima.movie##.BreadcrumbsFilters,.-movie-info-share,.WecimaonSocialnetwork,.Download--Wecima--Single,singlerelated
+
+! Dec 10, 2024 https://www.tuktukcima.com
+www.tuktukcima.com##.Header--Social,.News--Bar,.Slider--Outer,.Channels--Tv,.Footer--Filter,footer
+www.tuktukcima.com##.breadcrumbs,.WatcHTrailer.trl,.watch--servers--list > span
+
+! Dec 10, 2024 https://5tv.asia
+5tv.asia##.menu-item-129997,#menu-item-106263,#menu-item-28656,.btn-login.btn,.tac.ft
+5tv.asia##.AsideContext > h3,.alg-cr.jst-sb.dfxa,.widget.comments-area
+
+! Dec 10, 2024 https://play.spotnews.buzz
+play.spotnews.buzz##server--title,.sticky-bottom-close,.header-footer-group.has-text-align-center.entry-header,.entry-content,.pagination-single,.comment-respond,#site-footer
+
+! Dec 10, 2024 https://best-drama.com
+best-drama.com##.not-logged,.mt-0.block-bgcolor-att.padding_50,section.mt-0.padding_50:nth-of-type(2)
+best-drama.com##.clearfix,.mb-0.style-2.gtitle,.text-center.float-none.info-comviewfav,.pb-3.pt-5.block-bgcolor-att
+
+! Dec 10, 2024 https://cimaa4u.com
+cimaa4u.com###menu-item-799877,#menu-item-799878,.PinSlider,.Slider,.FooterLinks,.DesignedBy
+
+! Dec 10, 2024 https://egydead.center
+egydead.center##.owl-stage,.pin-posts-list,footer
+egydead.center##.singleTopper,.trailerBtn,.commentsMaster,.related-posts,.downloadMaster,.TagsList
+
+! Dec 10, 2024 https://hydrahd.cc
+hydrahd.cc##footer,[href="/login"],[href="/register"],.watch-now-btn
+
+! Dec 10, 2024 https://shoffree.net
+shoffree.net##.col-md-3.d-md-block.d-none.t-blackout-bg-secondary.px-3.p-0
+shoffree.net##.imdbRate,.imdbRating,.listOfPosts-wrapper.pb-3.pt-4
+
+! Dec 10, 2024 https://asiatv.one
+asiatv.one##footer,div.sec-main:nth-of-type(4)
+
+! Dec 10, 2024 https://a.asiawiki.co
+a.asiawiki.co##.header-inner,.widget,breadcrumbs,.DownloadTitle,.postThumb,.description
