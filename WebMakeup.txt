@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: 💄 Web Makeup
-! Version: 0.0.6.2
+! Version: 0.0.7
 ! Description: Filters for clean websites that support uBO mainly.
 ! Maintainer: Murtaza Salih
 ! Expires: 1 hours
@@ -12,13 +12,13 @@ www.faselhds.care##.slider,#lastnews,#pr,#footer,#scroll-to-top,.alert-danger
 www.faselhds.care##.mb-1.slideMeta,.mb-2.slideCats,.bviews,.bimdb,.pViews,.pImdb
 www.faselhds.care##.social-block,.seasonMeta,.singleBtns,.singleStar,.downloadLinks,.postElse,.Teamwork,.ralatedMovies
 
-! Oct 16, 2024 https://cee.buzz
+! Jan 26, 2025 https://cee.buzz
 cee.buzz##.download-app
 
-! Oct 22, 2024 https://wecima.movie
-wecima.movie###menu-item-273056,#menu-item-273057,.ProductionsListButton,.LeftSideFlex,footer,.GotoTop
-wecima.movie##.Slider--Grid,.LeftUI,singlecontainerleft,.PostItemStats
-wecima.movie##.BreadcrumbsFilters,.-movie-info-share,.WecimaonSocialnetwork,.Download--Wecima--Single,singlerelated
+! Jan 26, 2025 https://wecima.watch
+wecima.watch###menu-item-273056,#menu-item-273057,.ProductionsListButton,.LeftSideFlex,footer,.GotoTop
+wecima.wach##.Slider--Grid,.LeftUI,singlecontainerleft,.PostItemStats
+wecima.watch##.BreadcrumbsFilters,.-movie-info-share,.WecimaonSocialnetwork,.Download--Wecima--Single,singlerelated
 
 ! Oct 22, 2024 https://www.tuktukcima.com
 www.tuktukcima.com##.Header--Social,.News--Bar,.Slider--Outer,.Channels--Tv,.imdbRating,.Footer--Filter,footer
@@ -49,25 +49,25 @@ egydead.center##.singleTopper,.trailerBtn,.commentsMaster,.related-posts,.archp.
 hydrahd.cc##footer,[href="/login"],[href="/register"],[href="/tv-shows/popular"],[href="/movies/popular/"],[href="/livesports"],[href="/sports247"]
 hydrahd.cc##div.info.alert:nth-of-type(1),div.info.alert:nth-of-type(3),#shareButton,.col-lg-12.center-block.btns-under-jumbo.btn-group > div > [href="javascript:void(0);"],.watch-now-btn,.diz-title.row > span:nth-of-type(1) > div,.smbit.center-block.btns-under-jumbo.btn-group
 
-! Oct 23, 2024 https://shoffree.net
-shoffree.net##.col-md-3.d-md-block.d-none.t-blackout-bg-secondary.px-3.p-0
-shoffree.net##.imdbRate,.imdbRating
-shoffree.net##.container-fluid.rtl-secondaryFont.w-100.py-4.m-0.p-0.themed-container
-shoffree.net##a.naked:nth-of-type(4) > .t-blackout-text-alternative-highlight.font-md.m-0.p-0 > .align-items-center.d-lg-flex.d-block.p-0.m-0
+! Jan 26, 2025 https://shoffree.space
+shoffree.space##.col-md-3.d-md-block.d-none.t-blackout-bg-secondary.px-3.p-0
+shoffree.space##.imdbRate,.imdbRating
+shoffree.space##.container-fluid.rtl-secondaryFont.w-100.py-4.m-0.p-0.themed-container
+shoffree.space##a.naked:nth-of-type(4) > .t-blackout-text-alternative-highlight.font-md.m-0.p-0 > .align-items-center.d-lg-flex.d-block.p-0.m-0
 shoffree.net##a.naked:nth-of-type(6) > .t-blackout-text-alternative-highlight.font-md.m-0.p-0 > .align-items-center.d-lg-flex.d-block.p-0.m-0
 shoffree.net##.d-flex.rtl-pull-to-leading.px-3.my-2
-shoffree.net##.row.t-blackout-bt-primary.listOfPosts-wrapper.pb-3.pt-4.px-4.p-0.m-0
+shoffree.space##.row.t-blackout-bt-primary.listOfPosts-wrapper.pb-3.pt-4.px-4.p-0.m-0
 shoffree.net##.row.scrollable-x.playView-cards-row-spacing.pt-0.m-0
-shoffree.net##div.w-100 > .row.font-lg.t-blackout-text-alternative-highlight.rtl-primaryFont.pb-4.px-4.w-100.p-0.m-0
-shoffree.net##div.pt-0.px-0 > .row.font-lg.t-blackout-text-alternative-highlight.rtl-primaryFont.pb-4.px-4.w-100.p-0.m-0
-shoffree.net##.px-2 > .rounded-sm.font-sm.rtl-secondaryFont.t-blackout-bg-secondary-highlight.p-2.m-0.h-auto.w-100
+shoffree.space##div.w-100 > .row.font-lg.t-blackout-text-alternative-highlight.rtl-primaryFont.pb-4.px-4.w-100.p-0.m-0
+shoffree.space##div.pt-0.px-0 > .row.font-lg.t-blackout-text-alternative-highlight.rtl-primaryFont.pb-4.px-4.w-100.p-0.m-0
+shoffree.space##.px-2 > .rounded-sm.font-sm.rtl-secondaryFont.t-blackout-bg-secondary-highlight.p-2.m-0.h-auto.w-100
 shoffree.net##.singleRating.font-lg.font-bold > .fa-star.fa
-shoffree.net##.singleRating.font-lg.font-bold > b
-shoffree.net##.row.font-lg.t-blackout-text-alternative-highlight.rtl-primaryFont.pb-4.px-2.w-100.p-0.m-0
-shoffree.net##div.container:nth-of-type(4)
+shoffree.space##.singleRating.font-lg.font-bold > b
+shoffree.space##.row.font-lg.t-blackout-text-alternative-highlight.rtl-primaryFont.pb-4.px-2.w-100.p-0.m-0
+shoffree.space##div.container:nth-of-type(4)
 
 ! Dec 5, 2024 https://asiatv.one
-asiatv.one##footer,div.sec-main:nth-of-type(4)
+asiatv.one##footer,div.sec-main:nth-of-type(4), .sharethis
 
 ! Dec 5, 2024 https://a.asiawiki.co
 a.asiawiki.co##.clearfix.header-inner,.widget,breadcrumbs,.DownloadTitle,.postThumb,.description,.mt10.secContent
