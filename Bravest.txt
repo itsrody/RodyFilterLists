@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: 🦁 Bravest List
-! Version: 1.0.3
+! Version: 1.0.4
 ! Description: Filters for clean websites, tailored for Brave Shields compatibility.
 ! Maintainer: Murtaza Salih
 ! Expires: 3 minutes
@@ -103,3 +103,25 @@ asiatv.one##footer,div.sec-main:nth-of-type(4)
 
 ! Dec 10, 2024 https://a.asiawiki.co
 a.asiawiki.co##.header-inner,.widget,breadcrumbs,.DownloadTitle,.postThumb,.description
+
+! Feb 01, 2025 AntiPorn Filters
+sextb.net###alert-domain,.login-member,.welcome.hidden-sm,.network-bar.hidden-sm > .navbar-container > span:nth-of-type(1),.network-bar.hidden-sm > .navbar-container > span:nth-of-type(2)
+sextb.net##li.navbar-menu-item:nth-of-type(7),li.navbar-menu-item:nth-of-type(8),li.navbar-menu-item:nth-of-type(9)
+sextb.net##[href*="/contact"],[href*="https://pubjav.com"],[href*="https://undress.cc/"],[href*="https://bongacams.com"],[href*="https://missav.ws/"],[href*="https://us.escortsaffair.com/losangeles"],[href*="https://theporndude.com"],[href*="https://javplayer.org"]
+sextb.net##div.sextb_728.hidden-sm:nth-of-type(2),div.sextb_728.hidden-sm:nth-of-type(4)
+sextb.net##section.tray.all:nth-of-type(3),section.tray.all:nth-of-type(4),section.tray.all:nth-of-type(5),section.tray.all:nth-of-type(6)
+sextb.net##.tray-item-trailer,footer,.player-header,.list-vip,.player-footer,.btn_player.btn-default.report,.btn_player.btn-default.player-lights.hidden-sm.off,.btn_player.btn-default.hidden-sm.explayer,h5.tab_comm:nth-of-type(2),div.description:nth-of-type(11),.btn-button.btn_player.load_more,.btn_player.btn-default.shared,.ss-box.ss-flat
+
+fcjav.com##.hm-button,footer,switch-mode,.mli-trailer
+fcjav.com##[href*="/contact"],[href*="https://live.fcjav.com/"],.btn.btn-successful.btn-login
+fcjav.com##.pad,.breadcrumb,.alert.alert-warning,#bar-player,.mvi-images.show,p:nth-of-type(10)
+
+javgg.net##[href*="https://mrlsexdoll.com/javgg"],[href*="https://nsfw.tools"],[href*="https://xxxelf.tv/"],[href*="https://toppornsites.porn/"],[href*="https://bongacams.com"],[href*="https://theporndude.com/"]
+javgg.net###dkss1,.fcmpbox,.notification-bar.alert.alert-warning.alert-dismissible.fade.show
+javgg.net##.dooplay_player > h2,.dooplay_player > p,#custom_html-5
+
+roshy.tv##.beeteam368_color_bar.beeteam368_color_loading_control
+roshy.tv###menu-item-114672,#menu-item-20164,#menu-item-7431,#menu-item-93540,.total-posts-content
+roshy.tv##footer,.classic-pos-video-player.is-single-post-main-player > div:nth-of-type(2),.btnn-default.btnn-primary.fw-spc-btn.no-spc-bdr.beeteam368-global-open-popup-control,.main-toolbar-more-btn
+
+jav.guru##footer,#footer-widgets
