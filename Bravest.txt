@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: 🦁 Bravest List
-! Version: 1.0.5.1
+! Version: 1.0.5.2
 ! Description: Filters for clean websites, tailored for Brave Shields compatibility.
 ! Maintainer: Murtaza Salih
 ! Expires: 3 minutes
@@ -55,8 +55,7 @@
 ||dynumiong.com^
 ||lamrissmyol.com^
 ||jewhouca.net^
-||soupilique.xyz^
-||https://soupilique.xyz/?z=%^
+||soupilique.xyz^$popup
 
 ! Dec 10, 2024 https://www.faselhds.care
 www.faselhds.care##.dwnApp,.promoLink,.promoTab,.accBtn,.social
