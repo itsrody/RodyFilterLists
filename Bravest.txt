@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: 🦁 Bravest List
-! Version: 1.0.4
+! Version: 1.0.5
 ! Description: Filters for clean websites, tailored for Brave Shields compatibility.
 ! Maintainer: Murtaza Salih
 ! Expires: 3 minutes
 ! Homepage: https://github.com/itsrody/RodyFilterLists
 
-! Dec 10, 2024 - Domain-level block
+! Feb 2, 2025 - Domain-level block
 ||othocgkugdu.com^
 ||gizmispfoj.com^
 ||blurbreimbursetrombone.com^
@@ -54,6 +54,8 @@
 ||diagramjawlineunhappy.com^
 ||dynumiong.com^
 ||lamrissmyol.com^
+||jewhouca.net^
+||soupilique.xyz^
 
 ! Dec 10, 2024 https://www.faselhds.care
 www.faselhds.care##.dwnApp,.promoLink,.promoTab,.accBtn,.social
