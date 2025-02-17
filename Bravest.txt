@@ -1,7 +1,6 @@
-[uBlockOrigin]
 ! Title: 🦁 Bravest List
-! Version: 1.0.5.3
-! Description: Filters for clean websites, tailored for Brave Shields compatibility.
+! Version: 1.0.5.4
+! Description: Filters for clean websites, tailored for Brave Shields and uBO.
 ! Maintainer: Murtaza Salih
 ! Expires: 3 minutes
 ! Homepage: https://github.com/itsrody/RodyFilterLists
