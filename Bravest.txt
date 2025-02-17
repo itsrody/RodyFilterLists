@@ -1,61 +1,10 @@
-[Adblock Plus 2.0]
+[uBlockOrigin]
 ! Title: 🦁 Bravest List
-! Version: 1.0.5.2
+! Version: 1.0.5.3
 ! Description: Filters for clean websites, tailored for Brave Shields compatibility.
 ! Maintainer: Murtaza Salih
 ! Expires: 3 minutes
 ! Homepage: https://github.com/itsrody/RodyFilterLists
-
-! Feb 2, 2025 - Domain-level block
-||othocgkugdu.com^
-||gizmispfoj.com^
-||blurbreimbursetrombone.com^
-||dalysv.com^
-||media.dalysv.com^
-||enginejav182.fun^
-||fractionfridgejudiciary.com^
-||hgagecdn.com^
-||vyrmveb1ylys.hgagecdn.com^
-||insertjav182.fun^
-||islandjav182.fun^
-||jads.co^
-||poweredby.jads.co^
-||javlion.xyz^
-||javsw.me^
-||jwpltx.com^
-||prd.jwpltx.com^
-||kraoqsvumatd.com^
-||locatejav182.fun^
-||magsrv.com^
-||a.magsrv.com^
-||resort1266.fun^
-||unpkg.com^
-||ak.phaunaitsi.net^
-||inklinkor.com^
-||makinguseable.com^
-||amung.us^
-||atflojand.com^
-||cdn4ads.com^
-||chatango.com^
-||arvigorothan.com^
-||dalyai.com^
-||laving.cc^
-||mouttorture.com^
-||troubledcontradiction.com^
-||googlesyndication.com^
-||dpqysqehgylh.com^
-||ilsemlzpfa.com^
-||intelligenceadx.com^
-||zirdough.net^
-||doubleclick.net^
-||gekeebsirs.com^
-||swiggermahwa.com^
-||samtnauo.com^
-||diagramjawlineunhappy.com^
-||dynumiong.com^
-||lamrissmyol.com^
-||jewhouca.net^
-||soupilique.xyz^$popup
 
 ! Dec 10, 2024 https://www.faselhds.care
 www.faselhds.care##.dwnApp,.promoLink,.promoTab,.accBtn,.social
