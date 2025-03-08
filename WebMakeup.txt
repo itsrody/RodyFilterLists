@@ -1,73 +1,126 @@
-[Adblock Plus 2.0]
 ! Title: 💄 Web Makeup
-! Version: 0.0.7
+! Version: 1.0
 ! Description: Filters for clean websites that support uBO mainly.
 ! Maintainer: Murtaza Salih
 ! Expires: 1 hours
 ! Homepage: https://github.com/itsrody/RodyFilterLists
 
-! Nov 6, 2024 https://www.faselhds.care
-www.faselhds.care##.dwnApp,.promoLink,.promoTab,.accBtn,.social,[href="/oscars-winners"]
-www.faselhds.care##.slider,#lastnews,#pr,#footer,#scroll-to-top,.alert-danger
-www.faselhds.care##.mb-1.slideMeta,.mb-2.slideCats,.bviews,.bimdb,.pViews,.pImdb
-www.faselhds.care##.social-block,.seasonMeta,.singleBtns,.singleStar,.downloadLinks,.postElse,.Teamwork,.ralatedMovies
+! Mar 8, 2025 https://www.faselhds.care
+www.faselhds.care##.bCat
+www.faselhds.care##.bimdb
+www.faselhds.care##.bviews
+www.faselhds.care##.breakNews
+www.faselhds.care##.slideMeta
+www.faselhds.care##.accBtn
+www.faselhds.care##.social
+www.faselhds.care##.promoLink
+www.faselhds.care##.promoTab
+www.faselhds.care##.dwnApp
+www.faselhds.care##[href="/oscars-winners"]
+www.faselhds.care##.menu-item-104245
+www.faselhds.care##.menu-item-104247
+www.faselhds.care##.menu-item-104249
+www.faselhds.care##.menu-item-104276
+www.faselhds.care##.menu-item-104253
+www.faselhds.care##.menu-item-104263
+www.faselhds.care##.menu-item-104259
+www.faselhds.care##.menu-item-104269
+www.faselhds.care##.menu-item-104282
+www.faselhds.care###pr
+www.faselhds.care###scroll-to-top
+www.faselhds.care###footer
+www.faselhds.care##.singleBtns
+www.faselhds.care##.downloadLinks
+www.faselhds.care##.shortLink
+www.faselhds.care##.social-block
+www.faselhds.care##.singleStar
+www.faselhds.care##.Teamwork
+www.faselhds.care##.ralatedMovies
+www.faselhds.care##.postShare
+www.faselhds.care##.posTop
+www.faselhds.care##.seasonMeta
+www.faselhds.care##.slider
 
-! Jan 26, 2025 https://cee.buzz
+! Mar 8, 2025 https://wecima.watch
+wecima.watch##.ProductionsListButton
+wecima.watch##.menu-item-273057
+wecima.watch##.menu-item-273056
+wecima.watch##.LeftSideFlex
+wecima.watch##.LeftUI
+wecima.watch##.Slider--Grid
+wecima.watch##.PostItemStats
+wecima.watch##footer
+wecima.watch##.visible.GotoTop
+wecima.watch##.Breadcrumb--UX
+wecima.watch##singlecontainerleft
+wecima.watch##.WecimaonSocialnetwork
+wecima.watch##.Download--Wecima--Single
+wecima.watch##singlerelated
+
+! Mar 8, 2025 https://asiatv.one
+asiatv.one##.menu-item-16867
+asiatv.one###menu-item-16868
+asiatv.one##.owl-stage
+asiatv.one##section.secContainer:nth-of-type(2)
+asiatv.one##footer
+asiatv.one##.team
+asiatv.one##div.sec-main:nth-of-type(4)
+asiatv.one##section.secContainer:nth-of-type(5)
+
+! Mar 8, 2025 https://a.asiawiki.co
+a.asiawiki.co##.breadcrumb
+a.asiawiki.co##header
+a.asiawiki.co##.row > .fRight.col-xs-12.col-sm-12.col-md-3
+a.asiawiki.co##footer
+a.asiawiki.co##.mt10.secContent
+a.asiawiki.co##.share
+a.asiawiki.co##.description
+a.asiawiki.co##.postThumb
+a.asiawiki.co##.DownloadTitle
+
+! Mar 8, 2025 https://cee.buzz
 cee.buzz##.download-app
 
-! Jan 26, 2025 https://wecima.watch
-wecima.watch###menu-item-273056,#menu-item-273057,.ProductionsListButton,.LeftSideFlex,footer,.GotoTop
-wecima.wach##.Slider--Grid,.LeftUI,singlecontainerleft,.PostItemStats
-wecima.watch##.BreadcrumbsFilters,.-movie-info-share,.WecimaonSocialnetwork,.Download--Wecima--Single,singlerelated
+! Mar 8, 2025 https://5tv.asia
+5tv.asia###menu-item-129997
+5tv.asia###menu-item-106263
+5tv.asia###menu-item-28656
+5tv.asia##li.cl0c.cl2:nth-of-type(1)
+5tv.asia###widget_list_movies_series-6
+5tv.asia###widget_list_movies_series-4
+5tv.asia###widget_list_movies_series-8
+5tv.asia###widget_list_movies_series-9
+5tv.asia###widget_list_movies_series-10
+5tv.asia###widget_list_movies_series-11
+5tv.asia###widget_list_movies_series-12
+5tv.asia##.tac.ft
+5tv.asia###fav-tv
+5tv.asia##.alg-cr.jst-sb.dfxa
+5tv.asia##.fwp.dfx.cast-lst
+5tv.asia##.widget.comments-area
+5tv.asia##.owl-stage
+5tv.asia##.jst-sb.alg-cr.rw
+5tv.asia##.owl-drag.owl-loaded.carousel.owl-theme.owl-carousel
 
-! Oct 22, 2024 https://www.tuktukcima.com
-www.tuktukcima.com##.Header--Social,.News--Bar,.Slider--Outer,.Channels--Tv,.imdbRating,.Footer--Filter,footer
-www.tuktukcima.com##.breadcrumbs,.WatcHTrailer.trl,.downloadBTN,.watch--servers--list > span,.imdbS
+! Mar 8, 2025 https://next.spotnews.buzz
+next.spotnews.buzz##server--title
+next.spotnews.buzz##.header-footer-group.has-text-align-center.entry-header
+next.spotnews.buzz##.entry-content
+next.spotnews.buzz##.category-8.hentry.format-standard.status-publish.type-post.post.post-301
+next.spotnews.buzz###site-footer
 
-! Oct 22, 2024 https://5tv.asia
-5tv.asia##.menu-item-129997,#menu-item-106263,#menu-item-28656,.btn-login.btn,.tac.ft
-5tv.asia###widget_list_movies_series-6,#widget_list_movies_series-4,#widget_list_movies_series-7,#widget_list_movies_series-11,#widget_list_movies_series-12,#widget_list_movies_series-10
-5tv.asia###fav-tv,.description > p:nth-of-type(1),.AsideContext > h3,.alg-cr.jst-sb.dfxa,.widget.comments-area,.owl-stage,section.episodes.section:nth-of-type(2)
-
-! Oct 22, 2024 https://play.spotnews.buzz
-play.spotnews.buzz##server--title,.sticky-bottom-close,.header-footer-group.has-text-align-center.entry-header,.entry-content,.section-inner.pagination-single,.comment-respond,#site-footer,.thin.post-inner,.adsbygoogle
-
-! Oct 22, 2024 https://best-drama.com
-best-drama.com##.not-logged,.mt-0.block-bgcolor-att.padding_50,section.mt-0.padding_50:nth-of-type(2),.footer-top,.footer,.model-user-registered.link-like.add_favorite
-best-drama.com##.clearfix,.mb-0.style-2.gtitle,.text-center.mt--10.single-episode-info,.text-center.float-none.info-comviewfav,.pb-3.pt-5.block-bgcolor-att
-best-drama.com##.text-left.col-lg-6.col-md-12,.post_options2,div.pb-3.pt-5:nth-of-type(2),.mb-5.mt-0.row
-
-! Oct 22, 2024 https://cimaa4u.com
-cimaa4u.com###menu-item-799877,#menu-item-799878,#menu-item-38222,#menu-item-803687,.PinSlider,.Slider,.MpaaSwitch,.BoxTitleInfo,.FooterLinks,.DesignedBy,copyrights
-cimaa4u.com##.ImportantButtons,.RelatedsOnSingle,.WatchBar,.DownloadServers,.TrailerColorButton
-
-! Oct 22, 2024 https://egydead.center
-egydead.center##.owl-stage,.pin-posts-list,footer
-egydead.center##.singleTopper,.trailerBtn,.commentsMaster,.related-posts,.archp.beadcrumbs,.downloadMaster,.TagsList
-
-! Oct 22, 2024 https://hydrahd.cc
-hydrahd.cc##footer,[href="/login"],[href="/register"],[href="/tv-shows/popular"],[href="/movies/popular/"],[href="/livesports"],[href="/sports247"]
-hydrahd.cc##div.info.alert:nth-of-type(1),div.info.alert:nth-of-type(3),#shareButton,.col-lg-12.center-block.btns-under-jumbo.btn-group > div > [href="javascript:void(0);"],.watch-now-btn,.diz-title.row > span:nth-of-type(1) > div,.smbit.center-block.btns-under-jumbo.btn-group
-
-! Jan 26, 2025 https://shoffree.space
-shoffree.space##.col-md-3.d-md-block.d-none.t-blackout-bg-secondary.px-3.p-0
-shoffree.space##.imdbRate,.imdbRating
-shoffree.space##.container-fluid.rtl-secondaryFont.w-100.py-4.m-0.p-0.themed-container
-shoffree.space##a.naked:nth-of-type(4) > .t-blackout-text-alternative-highlight.font-md.m-0.p-0 > .align-items-center.d-lg-flex.d-block.p-0.m-0
-shoffree.net##a.naked:nth-of-type(6) > .t-blackout-text-alternative-highlight.font-md.m-0.p-0 > .align-items-center.d-lg-flex.d-block.p-0.m-0
-shoffree.net##.d-flex.rtl-pull-to-leading.px-3.my-2
-shoffree.space##.row.t-blackout-bt-primary.listOfPosts-wrapper.pb-3.pt-4.px-4.p-0.m-0
-shoffree.net##.row.scrollable-x.playView-cards-row-spacing.pt-0.m-0
-shoffree.space##div.w-100 > .row.font-lg.t-blackout-text-alternative-highlight.rtl-primaryFont.pb-4.px-4.w-100.p-0.m-0
-shoffree.space##div.pt-0.px-0 > .row.font-lg.t-blackout-text-alternative-highlight.rtl-primaryFont.pb-4.px-4.w-100.p-0.m-0
-shoffree.space##.px-2 > .rounded-sm.font-sm.rtl-secondaryFont.t-blackout-bg-secondary-highlight.p-2.m-0.h-auto.w-100
-shoffree.net##.singleRating.font-lg.font-bold > .fa-star.fa
-shoffree.space##.singleRating.font-lg.font-bold > b
-shoffree.space##.row.font-lg.t-blackout-text-alternative-highlight.rtl-primaryFont.pb-4.px-2.w-100.p-0.m-0
-shoffree.space##div.container:nth-of-type(4)
-
-! Dec 5, 2024 https://asiatv.one
-asiatv.one##footer,div.sec-main:nth-of-type(4), .sharethis
-
-! Dec 5, 2024 https://a.asiawiki.co
-a.asiawiki.co##.clearfix.header-inner,.widget,breadcrumbs,.DownloadTitle,.postThumb,.description,.mt10.secContent
+! Mar 8, 2025 https://egydead.fyi
+egydead.fyi##.menu-item-79739
+egydead.fyi##.m-slider
+egydead.fyi##.pin-posts-list
+egydead.fyi##div.VHolder:nth-of-type(2)
+egydead.fyi##footer
+egydead.fyi##.singleTopper
+egydead.fyi##.singleStory
+egydead.fyi##.trailerBtn
+egydead.fyi##.breadcrumbs-single
+egydead.fyi##.related-posts
+egydead.fyi##.downloadMaster
+egydead.fyi##.fixedInCat
+egydead.fyi##.archp.beadcrumbs
+egydead.fyi##.commentsMaster
