@@ -1,11 +1,11 @@
-! Title: 💄 Web Makeup
+! Title:  💄 Cosmetic Shield
 ! Version: 1.0
-! Description: Filters for clean websites that support uBO mainly.
+! Description: Filters for cleaning websites.
 ! Maintainer: Murtaza Salih
 ! Expires: 1 hours
 ! Homepage: https://github.com/itsrody/RodyFilterLists
 
-! Mar 8, 2025 https://www.faselhds.care
+! Mar 8, 2025 faselhds.care
 www.faselhds.care##.bCat
 www.faselhds.care##.bimdb
 www.faselhds.care##.bviews
@@ -41,7 +41,7 @@ www.faselhds.care##.posTop
 www.faselhds.care##.seasonMeta
 www.faselhds.care##.slider
 
-! Mar 8, 2025 https://wecima.watch
+! Mar 8, 2025 wecima.watch
 wecima.watch##.ProductionsListButton
 wecima.watch##.menu-item-273057
 wecima.watch##.menu-item-273056
@@ -57,7 +57,7 @@ wecima.watch##.WecimaonSocialnetwork
 wecima.watch##.Download--Wecima--Single
 wecima.watch##singlerelated
 
-! Mar 8, 2025 https://asiatv.one
+! Mar 8, 2025 asiatv.one
 asiatv.one##.menu-item-16867
 asiatv.one###menu-item-16868
 asiatv.one##.owl-stage
@@ -67,7 +67,7 @@ asiatv.one##.team
 asiatv.one##div.sec-main:nth-of-type(4)
 asiatv.one##section.secContainer:nth-of-type(5)
 
-! Mar 8, 2025 https://a.asiawiki.co
+! Mar 8, 2025 a.asiawiki.co
 a.asiawiki.co##.breadcrumb
 a.asiawiki.co##header
 a.asiawiki.co##.row > .fRight.col-xs-12.col-sm-12.col-md-3
@@ -78,10 +78,10 @@ a.asiawiki.co##.description
 a.asiawiki.co##.postThumb
 a.asiawiki.co##.DownloadTitle
 
-! Mar 8, 2025 https://cee.buzz
+! Mar 8, 2025 cee.buzz
 cee.buzz##.download-app
 
-! Mar 8, 2025 https://5tv.asia
+! Mar 8, 2025 5tv.asia
 5tv.asia###menu-item-129997
 5tv.asia###menu-item-106263
 5tv.asia###menu-item-28656
@@ -102,14 +102,14 @@ cee.buzz##.download-app
 5tv.asia##.jst-sb.alg-cr.rw
 5tv.asia##.owl-drag.owl-loaded.carousel.owl-theme.owl-carousel
 
-! Mar 8, 2025 https://next.spotnews.buzz
+! Mar 8, 2025 next.spotnews.buzz
 next.spotnews.buzz##server--title
 next.spotnews.buzz##.header-footer-group.has-text-align-center.entry-header
 next.spotnews.buzz##.entry-content
 next.spotnews.buzz##.category-8.hentry.format-standard.status-publish.type-post.post.post-301
 next.spotnews.buzz###site-footer
 
-! Mar 8, 2025 https://egydead.fyi
+! Mar 8, 2025 egydead.fyi
 egydead.fyi##.menu-item-79739
 egydead.fyi##.m-slider
 egydead.fyi##.pin-posts-list
