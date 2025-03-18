@@ -1,9 +1,55 @@
 ! Title:  💄 Cosmetic Shield
-! Version: 1.0
+! Version: 1.1
 ! Description: Filters for cleaning websites.
 ! Maintainer: Murtaza Salih
 ! Expires: 1 hours
 ! Homepage: https://github.com/itsrody/RodyFilterLists
+
+! Domains Block
+||blurbreimbursetrombone.com^
+||dalysv.com^
+||media.dalysv.com^
+||enginejav182.fun^
+||fractionfridgejudiciary.com^
+||hgagecdn.com^
+||vyrmveb1ylys.hgagecdn.com^
+||insertjav182.fun^
+||islandjav182.fun^
+||jads.co^
+||poweredby.jads.co^
+||javlion.xyz^
+||javsw.me^
+||jwpltx.com^
+||prd.jwpltx.com^
+||kraoqsvumatd.com^
+||locatejav182.fun^
+||magsrv.com^
+||a.magsrv.com^
+||resort1266.fun^
+||unpkg.com^
+||ak.phaunaitsi.net^
+||inklinkor.com^
+||makinguseable.com^
+||amung.us^
+||atflojand.com^
+||cdn4ads.com^
+||chatango.com^
+||arvigorothan.com^
+||dalyai.com^
+||laving.cc^
+||mouttorture.com^
+||troubledcontradiction.com^
+||googlesyndication.com^
+||dpqysqehgylh.com^
+||ilsemlzpfa.com^
+||intelligenceadx.com^
+||zirdough.net^
+||doubleclick.net^
+||gekeebsirs.com^
+||swiggermahwa.com^
+||samtnauo.com^
+||diagramjawlineunhappy.com^
+||dynumiong.com^
 
 ! Mar 8, 2025 faselhds.care
 www.faselhds.care##.bCat
