@@ -1,10 +1,14 @@
 [Adblock Plus 3.1]
 ! Title: ✨ Magic Eraser
-! Version: 1.0
+! Version: 1.0.1
 ! Description: Filters for cleaning websites.
 ! Maintainer: Murtaza Salih
 ! Expires: 1 hours
 ! Homepage: https://github.com/itsrody/RodyFilterLists
+
+! Domain Level Block
+||lamkatgho.com^
+
 
 ! Mar 8, 2025 faselhds.care
 www.faselhds.care##.bCat
