@@ -1,5 +1,5 @@
 ! Title: ✨ Magic Eraser
-! Version: 1.0.3
+! Version: 1.0.4
 ! Description: Filters for cleaning websites.
 ! Maintainer: Murtaza Salih
 ! Expires: 1 hours
@@ -41,6 +41,18 @@ www.faselhds.care##.posTop
 www.faselhds.care##.seasonMeta
 www.faselhds.care##.slider
 www.faselhds.care##.alert.alert-danger
+
+! Apr 6, 2025 https://cineb.rs
+cineb.rs###suggest
+cineb.rs##.block_area-sideright.block_area
+cineb.rs##.section-id-01.block_area_home.block_area
+cineb.rs###footer
+cineb.rs##.header_right-user
+cineb.rs##.watching_player-control
+cineb.rs##.watch_page.detail_page
+cineb.rs##.mb-3.alert
+cineb.rs##.breadcrumb
+cineb.rs##.server-notice
 
 ! Mar 8, 2025 wecima.watch
 wecima.watch##.ProductionsListButton
