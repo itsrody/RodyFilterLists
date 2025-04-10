@@ -1,46 +1,46 @@
 ! Title: ✨ Magic Eraser
-! Version: 1.0.4
+! Version: 1.0.5
 ! Description: Filters for cleaning websites.
 ! Maintainer: Murtaza Salih
 ! Expires: 1 hours
 ! Homepage: https://github.com/itsrody/RodyFilterLists
 
 ! Mar 8, 2025 faselhds.care
-www.faselhds.care##.bCat
-www.faselhds.care##.bimdb
-www.faselhds.care##.bviews
-www.faselhds.care##.breakNews
-www.faselhds.care##.slideMeta
-www.faselhds.care##.accBtn
-www.faselhds.care##.social
-www.faselhds.care##.promoLink
-www.faselhds.care##.promoTab
-www.faselhds.care##.dwnApp
-www.faselhds.care##[href="/oscars-winners"]
-www.faselhds.care##.menu-item-104245
-www.faselhds.care##.menu-item-104247
-www.faselhds.care##.menu-item-104249
-www.faselhds.care##.menu-item-104276
-www.faselhds.care##.menu-item-104253
-www.faselhds.care##.menu-item-104263
-www.faselhds.care##.menu-item-104259
-www.faselhds.care##.menu-item-104269
-www.faselhds.care##.menu-item-104282
-www.faselhds.care###pr
-www.faselhds.care###scroll-to-top
-www.faselhds.care###footer
-www.faselhds.care##.singleBtns
-www.faselhds.care##.downloadLinks
-www.faselhds.care##.shortLink
-www.faselhds.care##.social-block
-www.faselhds.care##.singleStar
-www.faselhds.care##.Teamwork
-www.faselhds.care##.ralatedMovies
-www.faselhds.care##.postShare
-www.faselhds.care##.posTop
-www.faselhds.care##.seasonMeta
-www.faselhds.care##.slider
-www.faselhds.care##.alert.alert-danger
+faselhds.care##.bCat
+faselhds.care##.bimdb
+faselhds.care##.bviews
+faselhds.care##.breakNews
+faselhds.care##.slideMeta
+faselhds.care##.accBtn
+faselhds.care##.social
+faselhds.care##.promoLink
+faselhds.care##.promoTab
+faselhds.care##.dwnApp
+faselhds.care##[href="/oscars-winners"]
+faselhds.care and##.menu-item-104245
+faselhds.care##.menu-item-104247
+faselhds.care##.menu-item-104249
+faselhds.care##.menu-item-104276
+faselhds.care##.menu-item-104253
+faselhds.care##.menu-item-104263
+faselhds.care##.menu-item-104259
+faselhds.care##.menu-item-104269
+faselhds.care##.menu-item-104282
+faselhds.care###pr
+faselhds.care###scroll-to-top
+faselhds.care###footer
+faselhds.care##.singleBtns
+faselhds.care##.downloadLinks
+faselhds.care##.shortLink
+faselhds.care##.social-block
+faselhds.care##.singleStar
+faselhds.care##.Teamwork
+faselhds.care##.ralatedMovies
+faselhds.care##.postShare
+faselhds.care##.posTop
+faselhds.care##.seasonMeta
+faselhds.care##.slider
+faselhds.care##.alert.alert-danger
 
 ! Apr 6, 2025 https://cineb.rs
 cineb.rs###suggest
