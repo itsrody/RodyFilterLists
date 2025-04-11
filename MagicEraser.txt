@@ -1,5 +1,5 @@
 ! Title: ✨ Magic Eraser
-! Version: 1.0.5
+! Version: 1.0.6
 ! Description: Filters for cleaning websites.
 ! Maintainer: Murtaza Salih
 ! Expires: 1 hours
@@ -17,7 +17,7 @@ faselhds.care##.promoLink
 faselhds.care##.promoTab
 faselhds.care##.dwnApp
 faselhds.care##[href="/oscars-winners"]
-faselhds.care and##.menu-item-104245
+faselhds.care##.menu-item-104245
 faselhds.care##.menu-item-104247
 faselhds.care##.menu-item-104249
 faselhds.care##.menu-item-104276
